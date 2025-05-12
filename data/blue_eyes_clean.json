@@ -1,0 +1,5612 @@
+[
+  {
+    "id": 51351302,
+    "name": "A Man with Wdjat",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 67748760,
+    "name": "Absorouter Dragon",
+    "type": "Effect Monster",
+    "archetype": "Rokket"
+  },
+  {
+    "id": 15464375,
+    "name": "Adularia of the June Moon",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 63378869,
+    "name": "Aiza the Dragoness of Deranged Devotion",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 38035986,
+    "name": "Akakieisu",
+    "type": "Normal Monster",
+    "archetype": null
+  },
+  {
+    "id": 37683547,
+    "name": "Albaz the Ashen",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 25451383,
+    "name": "Albion the Shrouded Dragon",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 78121572,
+    "name": "Alchemist of Black Spells",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 86120751,
+    "name": "Aleister the Invoker",
+    "type": "Effect Monster",
+    "archetype": "Invoked"
+  },
+  {
+    "id": 43096270,
+    "name": "Alexandrite Dragon",
+    "type": "Normal Monster",
+    "archetype": null
+  },
+  {
+    "id": 87257460,
+    "name": "Allure Queen LV3",
+    "type": "Effect Monster",
+    "archetype": "Allure Queen"
+  },
+  {
+    "id": 23756165,
+    "name": "Allure Queen LV5",
+    "type": "Effect Monster",
+    "archetype": "Allure Queen"
+  },
+  {
+    "id": 50140163,
+    "name": "Allure Queen LV7",
+    "type": "Effect Monster",
+    "archetype": "Allure Queen"
+  },
+  {
+    "id": 12977245,
+    "name": "Altergeist Fifinellag",
+    "type": "Tuner Monster",
+    "archetype": "Altergeist"
+  },
+  {
+    "id": 85673903,
+    "name": "Altergeist Fijialert",
+    "type": "Effect Monster",
+    "archetype": "Altergeist"
+  },
+  {
+    "id": 52927340,
+    "name": "Altergeist Kunquery",
+    "type": "Effect Monster",
+    "archetype": "Altergeist"
+  },
+  {
+    "id": 27132400,
+    "name": "Altergeist Malwisp",
+    "type": "Tuner Monster",
+    "archetype": "Altergeist"
+  },
+  {
+    "id": 53143898,
+    "name": "Altergeist Marionetter",
+    "type": "Effect Monster",
+    "archetype": "Altergeist"
+  },
+  {
+    "id": 25533642,
+    "name": "Altergeist Meluseek",
+    "type": "Effect Monster",
+    "archetype": "Altergeist"
+  },
+  {
+    "id": 42790071,
+    "name": "Altergeist Multifaker",
+    "type": "Effect Monster",
+    "archetype": "Altergeist"
+  },
+  {
+    "id": 54126514,
+    "name": "Altergeist Peritrator",
+    "type": "Effect Monster",
+    "archetype": "Altergeist"
+  },
+  {
+    "id": 57769391,
+    "name": "Altergeist Pixiel",
+    "type": "Effect Monster",
+    "archetype": "Altergeist"
+  },
+  {
+    "id": 59185998,
+    "name": "Altergeist Pookuery",
+    "type": "Effect Monster",
+    "archetype": "Altergeist"
+  },
+  {
+    "id": 89538537,
+    "name": "Altergeist Silquitous",
+    "type": "Effect Monster",
+    "archetype": "Altergeist"
+  },
+  {
+    "id": 27024795,
+    "name": "Alviss of the Nordic Alfar",
+    "type": "Effect Monster",
+    "archetype": "Nordic"
+  },
+  {
+    "id": 40213117,
+    "name": "Amores of Prophecy",
+    "type": "Effect Monster",
+    "archetype": "Spellbook"
+  },
+  {
+    "id": 98287529,
+    "name": "Amorphactor Pain, the Imagination Dracoverlord",
+    "type": "Ritual Effect Monster",
+    "archetype": "Dracoverlord"
+  },
+  {
+    "id": 58324930,
+    "name": "Anarchist Monk Ranshin",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 38520918,
+    "name": "Ancient Dragon",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 93221206,
+    "name": "Ancient Elf",
+    "type": "Normal Monster",
+    "archetype": null
+  },
+  {
+    "id": 54912977,
+    "name": "Ancient Lamp",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 36821538,
+    "name": "Ancient Sorcerer",
+    "type": "Normal Monster",
+    "archetype": "Prophecy"
+  },
+  {
+    "id": 53266486,
+    "name": "Anesthrokket Dragon",
+    "type": "Effect Monster",
+    "archetype": "Rokket"
+  },
+  {
+    "id": 73979030,
+    "name": "Angraecum Umbrella",
+    "type": "Tuner Monster",
+    "archetype": null
+  },
+  {
+    "id": 47484352,
+    "name": "Anotherverse Dragon",
+    "type": "Normal Monster",
+    "archetype": null
+  },
+  {
+    "id": 56132807,
+    "name": "Apple Magician Girl",
+    "type": "Effect Monster",
+    "archetype": "Magician Girl"
+  },
+  {
+    "id": 30603688,
+    "name": "Apprentice Illusion Magician",
+    "type": "Effect Monster",
+    "archetype": "Dark Magician"
+  },
+  {
+    "id": 9156135,
+    "name": "Apprentice Magician",
+    "type": "Effect Monster",
+    "archetype": "Magician"
+  },
+  {
+    "id": 64977888,
+    "name": "Apprentice Piper",
+    "type": "Flip Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 85639257,
+    "name": "Aqua Madoor",
+    "type": "Normal Monster",
+    "archetype": "Madoor"
+  },
+  {
+    "id": 40048324,
+    "name": "Arcane Apprentice",
+    "type": "Tuner Monster",
+    "archetype": "Assault Mode"
+  },
+  {
+    "id": 14553285,
+    "name": "Arcanite Magician/Assault Mode",
+    "type": "Effect Monster",
+    "archetype": "Assault Mode"
+  },
+  {
+    "id": 33212663,
+    "name": "Archnemeses Eschatos",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 33282498,
+    "name": "Arkbrave Dragon",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 59464593,
+    "name": "Armed Dragon LV10",
+    "type": "Effect Monster",
+    "archetype": "Armed Dragon"
+  },
+  {
+    "id": 84425220,
+    "name": "Armed Dragon LV10 White",
+    "type": "Effect Monster",
+    "archetype": "Armed Dragon"
+  },
+  {
+    "id": 980973,
+    "name": "Armed Dragon LV3",
+    "type": "Effect Monster",
+    "archetype": "Armed Dragon"
+  },
+  {
+    "id": 46384672,
+    "name": "Armed Dragon LV5",
+    "type": "Effect Monster",
+    "archetype": "Armed Dragon"
+  },
+  {
+    "id": 73879377,
+    "name": "Armed Dragon LV7",
+    "type": "Effect Monster",
+    "archetype": "Armed Dragon"
+  },
+  {
+    "id": 58153103,
+    "name": "Armed Dragon Thunder LV10",
+    "type": "Effect Monster",
+    "archetype": "Armed Dragon"
+  },
+  {
+    "id": 57030525,
+    "name": "Armed Dragon Thunder LV3",
+    "type": "Effect Monster",
+    "archetype": "Armed Dragon"
+  },
+  {
+    "id": 21546416,
+    "name": "Armed Dragon Thunder LV5",
+    "type": "Effect Monster",
+    "archetype": "Armed Dragon"
+  },
+  {
+    "id": 94141712,
+    "name": "Armed Dragon Thunder LV7",
+    "type": "Effect Monster",
+    "archetype": "Armed Dragon"
+  },
+  {
+    "id": 75220074,
+    "name": "Armed Dragon, the Armored Dragon",
+    "type": "Effect Monster",
+    "archetype": "Armed Dragon"
+  },
+  {
+    "id": 29330706,
+    "name": "Armed Protector Dragon",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 85489096,
+    "name": "Arsenal Summoner",
+    "type": "Flip Effect Monster",
+    "archetype": "Guardian"
+  },
+  {
+    "id": 60946049,
+    "name": "Artmegia Graphlare",
+    "type": "Effect Monster",
+    "archetype": "Artmegia"
+  },
+  {
+    "id": 97434754,
+    "name": "Artmegia Litera",
+    "type": "Effect Monster",
+    "archetype": "Artmegia"
+  },
+  {
+    "id": 71821687,
+    "name": "Ascator, Dawnwalker",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 29311166,
+    "name": "Assault Wyvern",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 25592142,
+    "name": "Astellar of the White Forest",
+    "type": "Effect Monster",
+    "archetype": "White Forest"
+  },
+  {
+    "id": 79875526,
+    "name": "Attachment Cybern",
+    "type": "Effect Monster",
+    "archetype": "Cyber"
+  },
+  {
+    "id": 62803464,
+    "name": "Aussa the Earth Channeler",
+    "type": "Effect Monster",
+    "archetype": "Charmer"
+  },
+  {
+    "id": 37970940,
+    "name": "Aussa the Earth Charmer",
+    "type": "Flip Effect Monster",
+    "archetype": "Charmer"
+  },
+  {
+    "id": 80250185,
+    "name": "Autorokket Dragon",
+    "type": "Effect Monster",
+    "archetype": "Rokket"
+  },
+  {
+    "id": 29139104,
+    "name": "Avalanching Aussa",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 410904,
+    "name": "Awakening of the Possessed - Rasenryu",
+    "type": "Effect Monster",
+    "archetype": "Possessed"
+  },
+  {
+    "id": 84914462,
+    "name": "Axe Dragonute",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 89832901,
+    "name": "B. Dragon Jungle King",
+    "type": "Normal Monster",
+    "archetype": "Recolored counterpart"
+  },
+  {
+    "id": 88819587,
+    "name": "Baby Dragon",
+    "type": "Normal Monster",
+    "archetype": null
+  },
+  {
+    "id": 40380686,
+    "name": "Baby Mudragon",
+    "type": "Tuner Monster",
+    "archetype": null
+  },
+  {
+    "id": 84976088,
+    "name": "Background Dragon",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 53318263,
+    "name": "Bahalutiya, the Grand Radiance",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 20747792,
+    "name": "Berry Magician Girl",
+    "type": "Effect Monster",
+    "archetype": "Magician Girl"
+  },
+  {
+    "id": 91337277,
+    "name": "Big Inflate Dragon",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 61901281,
+    "name": "Black Dragon Collapserpent",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 36262024,
+    "name": "Black Dragon's Chick",
+    "type": "Effect Monster",
+    "archetype": "Red-Eyes"
+  },
+  {
+    "id": 93969023,
+    "name": "Black Metal Dragon",
+    "type": "Effect Monster",
+    "archetype": "Red-Eyes"
+  },
+  {
+    "id": 87564352,
+    "name": "Blackland Fire Dragon",
+    "type": "Normal Monster",
+    "archetype": null
+  },
+  {
+    "id": 21051146,
+    "name": "Blast Magician",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 53804307,
+    "name": "Blaster, Dragon Ruler of Infernos",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 95515789,
+    "name": "Blazing Cartesia, the Virtuous",
+    "type": "Tuner Monster",
+    "archetype": null
+  },
+  {
+    "id": 92518817,
+    "name": "Blazing Hiita",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 61802346,
+    "name": "Blizzard Dragon",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 28348537,
+    "name": "Blizzard Princess",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 55969226,
+    "name": "Blue Dragon Summoner",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 98884569,
+    "name": "Blue Rose Dragon",
+    "type": "Effect Monster",
+    "archetype": "Rose Dragon"
+  },
+  {
+    "id": 64202399,
+    "name": "Blue-Eyes Abyss Dragon",
+    "type": "Effect Monster",
+    "archetype": "Blue-Eyes"
+  },
+  {
+    "id": 38517737,
+    "name": "Blue-Eyes Alternative White Dragon",
+    "type": "Effect Monster",
+    "archetype": "Blue-Eyes"
+  },
+  {
+    "id": 20654247,
+    "name": "Blue-Eyes Chaos Dragon",
+    "type": "Ritual Effect Monster",
+    "archetype": "Blue-Eyes"
+  },
+  {
+    "id": 55410871,
+    "name": "Blue-Eyes Chaos MAX Dragon",
+    "type": "Ritual Effect Monster",
+    "archetype": "Blue-Eyes"
+  },
+  {
+    "id": 30576089,
+    "name": "Blue-Eyes Jet Dragon",
+    "type": "Effect Monster",
+    "archetype": "Blue-Eyes"
+  },
+  {
+    "id": 53347303,
+    "name": "Blue-Eyes Shining Dragon",
+    "type": "Effect Monster",
+    "archetype": "Blue-Eyes"
+  },
+  {
+    "id": 57043986,
+    "name": "Blue-Eyes Solid Dragon",
+    "type": "Effect Monster",
+    "archetype": "Blue-Eyes"
+  },
+  {
+    "id": 53183600,
+    "name": "Blue-Eyes Toon Dragon",
+    "type": "Toon Monster",
+    "archetype": "Toon"
+  },
+  {
+    "id": 89631139,
+    "name": "Blue-Eyes White Dragon",
+    "type": "Normal Monster",
+    "archetype": "Blue-Eyes"
+  },
+  {
+    "id": 71750854,
+    "name": "Bomber Place",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 68963107,
+    "name": "Boo Koo",
+    "type": "Normal Monster",
+    "archetype": null
+  },
+  {
+    "id": 7987191,
+    "name": "Borreload Riot Dragon",
+    "type": "Ritual Effect Monster",
+    "archetype": "Borrel"
+  },
+  {
+    "id": 22923081,
+    "name": "Breaker the Dark Magical Warrior",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 71413901,
+    "name": "Breaker the Magical Warrior",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 16719802,
+    "name": "Bright Star Dragon",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 57985393,
+    "name": "Broomy",
+    "type": "Tuner Monster",
+    "archetype": null
+  },
+  {
+    "id": 89974735,
+    "name": "Burgundy the Magic Elf",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 53797637,
+    "name": "Burner, Dragon Ruler of Sparks",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 8085950,
+    "name": "Burning Dragon",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 49823708,
+    "name": "Buster Whelp of the Destruction Swordsman",
+    "type": "Tuner Monster",
+    "archetype": "Destruction Sword"
+  },
+  {
+    "id": 72656408,
+    "name": "Bystial Baldrake",
+    "type": "Effect Monster",
+    "archetype": "Bystial"
+  },
+  {
+    "id": 6637331,
+    "name": "Bystial Druiswurm",
+    "type": "Effect Monster",
+    "archetype": "Bystial"
+  },
+  {
+    "id": 33854624,
+    "name": "Bystial Magnamhut",
+    "type": "Effect Monster",
+    "archetype": "Bystial"
+  },
+  {
+    "id": 60242223,
+    "name": "Bystial Saronir",
+    "type": "Effect Monster",
+    "archetype": "Bystial"
+  },
+  {
+    "id": 26701483,
+    "name": "Card Ejector",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 54360049,
+    "name": "Catoblepas and the Witch of Fate",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 93220472,
+    "name": "Cave Dragon",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 96030710,
+    "name": "Centur-Ion Atrii",
+    "type": "Tuner Monster",
+    "archetype": "Centur-Ion"
+  },
+  {
+    "id": 97698279,
+    "name": "Centur-Ion Gargoyle II",
+    "type": "Effect Monster",
+    "archetype": "Centur-Ion"
+  },
+  {
+    "id": 15005145,
+    "name": "Centur-Ion Primera",
+    "type": "Tuner Monster",
+    "archetype": "Centur-Ion"
+  },
+  {
+    "id": 20228463,
+    "name": "Ceremonial Bell",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 32600024,
+    "name": "Chamber Dragonmaid",
+    "type": "Effect Monster",
+    "archetype": "Dragonmaid"
+  },
+  {
+    "id": 29925614,
+    "name": "Chaos Allure Queen",
+    "type": "Effect Monster",
+    "archetype": "Allure Queen"
+  },
+  {
+    "id": 72630549,
+    "name": "Chaos Command Magician",
+    "type": "Effect Monster",
+    "archetype": "Chaos"
+  },
+  {
+    "id": 55878038,
+    "name": "Chaos Dragon Levianeer",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 82301904,
+    "name": "Chaos Emperor Dragon - Envoy of the End",
+    "type": "Effect Monster",
+    "archetype": "Chaos"
+  },
+  {
+    "id": 9596126,
+    "name": "Chaos Sorcerer",
+    "type": "Effect Monster",
+    "archetype": "Chaos"
+  },
+  {
+    "id": 30327674,
+    "name": "Chaos Witch",
+    "type": "Effect Monster",
+    "archetype": "Chaos"
+  },
+  {
+    "id": 49191560,
+    "name": "Charioteer of Prophecy",
+    "type": "Effect Monster",
+    "archetype": "Spellbook"
+  },
+  {
+    "id": 94136469,
+    "name": "Checksum Dragon",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 27352108,
+    "name": "Chobham Armor Dragon",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 7198399,
+    "name": "Chocolate Magician Girl",
+    "type": "Effect Monster",
+    "archetype": "Magician Girl"
+  },
+  {
+    "id": 95905259,
+    "name": "Chow Len the Prophet",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 38412161,
+    "name": "Chow Sai the Ghost Stopper",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 60948488,
+    "name": "Chronicle Magician",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 54878729,
+    "name": "Chronicle Sorceress",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 25397880,
+    "name": "Chronicler of Nephthys",
+    "type": "Effect Monster",
+    "archetype": "Nephthys"
+  },
+  {
+    "id": 95888876,
+    "name": "Chthonian Emperor Dragon",
+    "type": "Gemini Monster",
+    "archetype": null
+  },
+  {
+    "id": 79094383,
+    "name": "Cipher Etranger",
+    "type": "Effect Monster",
+    "archetype": "Cipher"
+  },
+  {
+    "id": 58518520,
+    "name": "Clear Effector",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 97811903,
+    "name": "Clear Vice Dragon",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 8454126,
+    "name": "Conductor of Nephthys",
+    "type": "Ritual Effect Monster",
+    "archetype": "Nephthys"
+  },
+  {
+    "id": 41269771,
+    "name": "Constellar Algiedi",
+    "type": "Effect Monster",
+    "archetype": "Constellar"
+  },
+  {
+    "id": 82913020,
+    "name": "Constellar Caduceus",
+    "type": "Effect Monster",
+    "archetype": "Constellar"
+  },
+  {
+    "id": 70624184,
+    "name": "Constellar Rasalhague",
+    "type": "Effect Monster",
+    "archetype": "Constellar"
+  },
+  {
+    "id": 291414,
+    "name": "Converging Wills Dragon",
+    "type": "Tuner Monster",
+    "archetype": "Majestic"
+  },
+  {
+    "id": 26376390,
+    "name": "Copycat",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 85679527,
+    "name": "Cosmo Brain",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 38999506,
+    "name": "Cosmo Queen",
+    "type": "Normal Monster",
+    "archetype": null
+  },
+  {
+    "id": 85314178,
+    "name": "Cosmo Queen the Queen of Prayers",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 67494157,
+    "name": "Crawling Dragon",
+    "type": "Normal Monster",
+    "archetype": null
+  },
+  {
+    "id": 875572,
+    "name": "Crowley, the Gifted of Magistus",
+    "type": "Effect Monster",
+    "archetype": "Magistus"
+  },
+  {
+    "id": 9505425,
+    "name": "Crowley, the Magistus of Grimoires",
+    "type": "Effect Monster",
+    "archetype": "Magistus"
+  },
+  {
+    "id": 95511642,
+    "name": "Crowned by the World Chalice",
+    "type": "Normal Monster",
+    "archetype": "World Chalice"
+  },
+  {
+    "id": 73853830,
+    "name": "Crusader of Endymion",
+    "type": "Gemini Monster",
+    "archetype": "Endymion"
+  },
+  {
+    "id": 54525057,
+    "name": "Crusadia Draco",
+    "type": "Effect Monster",
+    "archetype": "Crusadia"
+  },
+  {
+    "id": 55241609,
+    "name": "Crusadia Reclusia",
+    "type": "Effect Monster",
+    "archetype": "Crusadia"
+  },
+  {
+    "id": 36795102,
+    "name": "Crystal Beast Rainbow Dragon",
+    "type": "Effect Monster",
+    "archetype": "Crystal Beast"
+  },
+  {
+    "id": 93169863,
+    "name": "Crystal Girl",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 82099401,
+    "name": "Crystal Seer",
+    "type": "Flip Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 28279543,
+    "name": "Curse of Dragon",
+    "type": "Normal Monster",
+    "archetype": "Gaia The Fierce Knight"
+  },
+  {
+    "id": 61525276,
+    "name": "Curse of Dragon, the Cursed Dragon",
+    "type": "Effect Monster",
+    "archetype": "Gaia The Fierce Knight"
+  },
+  {
+    "id": 7241272,
+    "name": "Curse of Dragonfire",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 71545247,
+    "name": "Cursed Bride Doll",
+    "type": "Tuner Monster",
+    "archetype": null
+  },
+  {
+    "id": 22026707,
+    "name": "Curtain of the Dark Ones",
+    "type": "Normal Monster",
+    "archetype": null
+  },
+  {
+    "id": 45078193,
+    "name": "Cyberdark Cannon",
+    "type": "Effect Monster",
+    "archetype": "Cyberdark"
+  },
+  {
+    "id": 82562802,
+    "name": "Cyberdark Claw",
+    "type": "Effect Monster",
+    "archetype": "Cyberdark"
+  },
+  {
+    "id": 59023523,
+    "name": "Cybernetic Magician",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 51020079,
+    "name": "Cyborg Doctor",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 82112775,
+    "name": "D.D.M. - Different Dimension Master",
+    "type": "Effect Monster",
+    "archetype": "D.D."
+  },
+  {
+    "id": 41090784,
+    "name": "Dai-sojo of the Ice Barrier",
+    "type": "Effect Monster",
+    "archetype": "Ice Barrier"
+  },
+  {
+    "id": 50613779,
+    "name": "Damage Mage",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 59546528,
+    "name": "Dance Princess of the Ice Barrier",
+    "type": "Effect Monster",
+    "archetype": "Ice Barrier"
+  },
+  {
+    "id": 65192027,
+    "name": "Dark Armed Dragon",
+    "type": "Effect Monster",
+    "archetype": "Armed Dragon"
+  },
+  {
+    "id": 21417692,
+    "name": "Dark Elf",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 62002838,
+    "name": "Dark End Evaporation Dragon",
+    "type": "Effect Monster",
+    "archetype": "Light and Darkness Dragon"
+  },
+  {
+    "id": 29436665,
+    "name": "Dark Eradicator Warlock",
+    "type": "Effect Monster",
+    "archetype": "Dark Magician"
+  },
+  {
+    "id": 72880377,
+    "name": "Dark Hole Dragon",
+    "type": "Effect Monster",
+    "archetype": "Hole"
+  },
+  {
+    "id": 66214679,
+    "name": "Dark Horus",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 46986414,
+    "name": "Dark Magician",
+    "type": "Normal Monster",
+    "archetype": "Dark Magician"
+  },
+  {
+    "id": 38033121,
+    "name": "Dark Magician Girl",
+    "type": "Effect Monster",
+    "archetype": "Dark Magician"
+  },
+  {
+    "id": 2501624,
+    "name": "Dark Magician Girl the Magician's Apprentice",
+    "type": "Effect Monster",
+    "archetype": "Dark Magician"
+  },
+  {
+    "id": 40737112,
+    "name": "Dark Magician of Chaos",
+    "type": "Effect Monster",
+    "archetype": "Dark Magician"
+  },
+  {
+    "id": 342673,
+    "name": "Dark Magician the Magician of Black Magic",
+    "type": "Effect Monster",
+    "archetype": "Dark Magician"
+  },
+  {
+    "id": 45462639,
+    "name": "Dark Red Enchanter",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 92377303,
+    "name": "Dark Sage",
+    "type": "Effect Monster",
+    "archetype": "Dark Magician"
+  },
+  {
+    "id": 38247752,
+    "name": "Dark-Eyes Illusionist",
+    "type": "Flip Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 39343610,
+    "name": "Darkblaze Dragon",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 50383626,
+    "name": "Darkest Diabolos, Lord of the Lair",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 25460258,
+    "name": "Darkflare Dragon",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 57662975,
+    "name": "Darkstorm Dragon",
+    "type": "Gemini Monster",
+    "archetype": null
+  },
+  {
+    "id": 14943837,
+    "name": "Debris Dragon",
+    "type": "Tuner Monster",
+    "archetype": null
+  },
+  {
+    "id": 2732323,
+    "name": "Decoy Dragon",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 22804410,
+    "name": "Deep-Eyes White Dragon",
+    "type": "Effect Monster",
+    "archetype": "Blue-Eyes"
+  },
+  {
+    "id": 51782995,
+    "name": "Defender of Nephthys",
+    "type": "Effect Monster",
+    "archetype": "Nephthys"
+  },
+  {
+    "id": 2525268,
+    "name": "Defender, the Magical Knight",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 58582979,
+    "name": "Defrag Dragon",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 85718645,
+    "name": "Delg the Dark Monarch",
+    "type": "Effect Monster",
+    "archetype": "Monarch"
+  },
+  {
+    "id": 57568840,
+    "name": "Delta Flyer",
+    "type": "Tuner Monster",
+    "archetype": null
+  },
+  {
+    "id": 81059524,
+    "name": "Des Volstgalph",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 5560911,
+    "name": "Destrudo the Lost Dragon's Frisson",
+    "type": "Tuner Monster",
+    "archetype": null
+  },
+  {
+    "id": 88176533,
+    "name": "Devotee of Nephthys",
+    "type": "Ritual Effect Monster",
+    "archetype": "Nephthys"
+  },
+  {
+    "id": 19327348,
+    "name": "Dharc the Dark Charmer",
+    "type": "Flip Effect Monster",
+    "archetype": "Charmer"
+  },
+  {
+    "id": 72270339,
+    "name": "Diabellstar the Black Witch",
+    "type": "Effect Monster",
+    "archetype": "Diabellstar"
+  },
+  {
+    "id": 29424328,
+    "name": "Diabolos, King of the Abyss",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 66961194,
+    "name": "Dictator of D.",
+    "type": "Effect Monster",
+    "archetype": "Blue-Eyes"
+  },
+  {
+    "id": 50939127,
+    "name": "Different Dimension Dragon",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 77683371,
+    "name": "Dimension Conjurer",
+    "type": "Effect Monster",
+    "archetype": "Dark Magician"
+  },
+  {
+    "id": 91800273,
+    "name": "Dimension Shifter",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 62107612,
+    "name": "Dimension Wanderer",
+    "type": "Effect Monster",
+    "archetype": "Galaxy-Eyes"
+  },
+  {
+    "id": 98999181,
+    "name": "Disciple of Nephthys",
+    "type": "Effect Monster",
+    "archetype": "Nephthys"
+  },
+  {
+    "id": 76137614,
+    "name": "Disenchanter",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 10032958,
+    "name": "Divine Dragon - Excelion",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 20277376,
+    "name": "Divine Dragon Apocralyph",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 60681103,
+    "name": "Divine Dragon Lord Felgrand",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 62113340,
+    "name": "Divine Dragon Ragnarok",
+    "type": "Normal Monster",
+    "archetype": null
+  },
+  {
+    "id": 32975247,
+    "name": "Divine Dragon Titanomakhia",
+    "type": "Effect Monster",
+    "archetype": "Divine Dragon"
+  },
+  {
+    "id": 61757117,
+    "name": "Divine Grace - Northwemko",
+    "type": "Ritual Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 97843505,
+    "name": "Djinn the Watcher of the Wind",
+    "type": "Normal Monster",
+    "archetype": "Djinn"
+  },
+  {
+    "id": 98371278,
+    "name": "DMZ Dragon",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 47013502,
+    "name": "Dodger Dragon",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 33296432,
+    "name": "Dogmatika Adin, the Enlightened",
+    "type": "Effect Monster",
+    "archetype": "Dogmatika"
+  },
+  {
+    "id": 51522296,
+    "name": "Dogmatika Alba Zoa",
+    "type": "Ritual Effect Monster",
+    "archetype": "Dogmatika"
+  },
+  {
+    "id": 13694209,
+    "name": "Dogmatika Ashiyan",
+    "type": "Effect Monster",
+    "archetype": "Dogmatika"
+  },
+  {
+    "id": 60303688,
+    "name": "Dogmatika Ecclesia, the Virtuous",
+    "type": "Effect Monster",
+    "archetype": "Dogmatika"
+  },
+  {
+    "id": 69680031,
+    "name": "Dogmatika Fleurdelis, the Knighted",
+    "type": "Effect Monster",
+    "archetype": "Dogmatika"
+  },
+  {
+    "id": 95679145,
+    "name": "Dogmatika Maximus",
+    "type": "Effect Monster",
+    "archetype": "Dogmatika"
+  },
+  {
+    "id": 22073844,
+    "name": "Dogmatika Nexus",
+    "type": "Effect Monster",
+    "archetype": "Dogmatika"
+  },
+  {
+    "id": 96891787,
+    "name": "Dogmatika Theo, the Iron Punch",
+    "type": "Effect Monster",
+    "archetype": "Dogmatika"
+  },
+  {
+    "id": 94944637,
+    "name": "Doom Shaman",
+    "type": "Gemini Monster",
+    "archetype": null
+  },
+  {
+    "id": 58369990,
+    "name": "Doomstar Magician",
+    "type": "Effect Monster",
+    "archetype": "Magician"
+  },
+  {
+    "id": 11590299,
+    "name": "Dora Dora",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 84916669,
+    "name": "Doriado",
+    "type": "Normal Monster",
+    "archetype": "Doriado"
+  },
+  {
+    "id": 93612434,
+    "name": "Double Disruptor Dragon",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 65737274,
+    "name": "Dragard",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 48705086,
+    "name": "Dragolithia Kunzite",
+    "type": "Effect Monster",
+    "archetype": "Gem Dragon"
+  },
+  {
+    "id": 76218313,
+    "name": "Dragon Buster Destruction Sword",
+    "type": "Tuner Monster",
+    "archetype": "Destruction Sword"
+  },
+  {
+    "id": 38955728,
+    "name": "Dragon Core Hexer",
+    "type": "Normal Tuner Monster",
+    "archetype": null
+  },
+  {
+    "id": 64262809,
+    "name": "Dragon Ice",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 87835759,
+    "name": "Dragon Knight of Creation",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 96823189,
+    "name": "Dragon of Pride and Soul",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 80513550,
+    "name": "Dragon Queen of Tragic Endings",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 45467446,
+    "name": "Dragon Spirit of White",
+    "type": "Effect Monster",
+    "archetype": "Blue-Eyes"
+  },
+  {
+    "id": 1498449,
+    "name": "Dragon Tail Fymena",
+    "type": "Effect Monster",
+    "archetype": "Dragon Tail"
+  },
+  {
+    "id": 75003700,
+    "name": "Dragon Tail Lucias",
+    "type": "Effect Monster",
+    "archetype": "Dragon Tail"
+  },
+  {
+    "id": 7375867,
+    "name": "Dragon Tail Mulr",
+    "type": "Effect Monster",
+    "archetype": "Dragon Tail"
+  },
+  {
+    "id": 44482554,
+    "name": "Dragon Tail Pan",
+    "type": "Effect Monster",
+    "archetype": "Dragon Tail"
+  },
+  {
+    "id": 70871153,
+    "name": "Dragon Tail Urgula",
+    "type": "Effect Monster",
+    "archetype": "Dragon Tail"
+  },
+  {
+    "id": 78009994,
+    "name": "Dragonic Guard",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 38109772,
+    "name": "Dragonic Knight",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 76782778,
+    "name": "Dragonmaid Ernus",
+    "type": "Effect Monster",
+    "archetype": "Dragonmaid"
+  },
+  {
+    "id": 15848542,
+    "name": "Dragonmaid Lorpar",
+    "type": "Effect Monster",
+    "archetype": "Dragonmaid"
+  },
+  {
+    "id": 49575521,
+    "name": "Dragonmaid Nudyarl",
+    "type": "Effect Monster",
+    "archetype": "Dragonmaid"
+  },
+  {
+    "id": 12163590,
+    "name": "Dragonmaid Stern",
+    "type": "Effect Monster",
+    "archetype": "Dragonmaid"
+  },
+  {
+    "id": 42055234,
+    "name": "Dragonmaid Tinkhec",
+    "type": "Effect Monster",
+    "archetype": "Dragonmaid"
+  },
+  {
+    "id": 51925772,
+    "name": "Dread Dragon",
+    "type": "Tuner Monster",
+    "archetype": null
+  },
+  {
+    "id": 94145021,
+    "name": "Droll & Lock Bird",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 67310848,
+    "name": "Dwarf Star Dragon Planeter",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 46508640,
+    "name": "Dweller in the Depths",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 46128076,
+    "name": "Ebon Magician Curran",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 16825874,
+    "name": "Eccentric Boy",
+    "type": "Tuner Monster",
+    "archetype": null
+  },
+  {
+    "id": 96352326,
+    "name": "Eda the Sun Magician",
+    "type": "Effect Monster",
+    "archetype": "Magician"
+  },
+  {
+    "id": 97268402,
+    "name": "Effect Veiler",
+    "type": "Tuner Monster",
+    "archetype": null
+  },
+  {
+    "id": 31596518,
+    "name": "Eidos the Underworld Monarch",
+    "type": "Effect Monster",
+    "archetype": "Monarch"
+  },
+  {
+    "id": 59463312,
+    "name": "Eidos the Underworld Squire",
+    "type": "Effect Monster",
+    "archetype": "Monarch"
+  },
+  {
+    "id": 6367785,
+    "name": "Eldeen",
+    "type": "Normal Monster",
+    "archetype": null
+  },
+  {
+    "id": 30314994,
+    "name": "Element Dragon",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 65260293,
+    "name": "Element Magician",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 32965616,
+    "name": "Elemental Grace Doriado",
+    "type": "Effect Monster",
+    "archetype": "Doriado"
+  },
+  {
+    "id": 99414168,
+    "name": "Elemental Mistress Doriado",
+    "type": "Ritual Effect Monster",
+    "archetype": "Doriado"
+  },
+  {
+    "id": 61980241,
+    "name": "Elzette of the White Forest",
+    "type": "Effect Monster",
+    "archetype": "White Forest"
+  },
+  {
+    "id": 6103294,
+    "name": "Emissary of the Oasis",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 53136004,
+    "name": "Emperor of Prophecy",
+    "type": "Effect Monster",
+    "archetype": "Spellbook"
+  },
+  {
+    "id": 9482987,
+    "name": "Endymion, the Magistus of Mastery",
+    "type": "Effect Monster",
+    "archetype": "Endymion"
+  },
+  {
+    "id": 40732515,
+    "name": "Endymion, the Master Magician",
+    "type": "Effect Monster",
+    "archetype": "Endymion"
+  },
+  {
+    "id": 50078320,
+    "name": "Engraver of the Mark",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 15746348,
+    "name": "Eria the Water Channeler",
+    "type": "Effect Monster",
+    "archetype": "Charmer"
+  },
+  {
+    "id": 74364659,
+    "name": "Eria the Water Charmer",
+    "type": "Flip Effect Monster",
+    "archetype": "Charmer"
+  },
+  {
+    "id": 4756629,
+    "name": "Evilswarm Kerykeion",
+    "type": "Effect Monster",
+    "archetype": "Lswarm"
+  },
+  {
+    "id": 3536537,
+    "name": "Evilswarm Zahak",
+    "type": "Effect Monster",
+    "archetype": "Lswarm"
+  },
+  {
+    "id": 12600382,
+    "name": "Exodia Necross",
+    "type": "Effect Monster",
+    "archetype": "Exodia"
+  },
+  {
+    "id": 33396948,
+    "name": "Exodia the Forbidden One",
+    "type": "Effect Monster",
+    "archetype": "Exodia"
+  },
+  {
+    "id": 5008836,
+    "name": "Exodia, the Legendary Defender",
+    "type": "Effect Monster",
+    "archetype": "Exodia"
+  },
+  {
+    "id": 13893596,
+    "name": "Exodius the Ultimate Forbidden Lord",
+    "type": "Effect Monster",
+    "archetype": "Exodia"
+  },
+  {
+    "id": 16474916,
+    "name": "Exosister Elis",
+    "type": "Effect Monster",
+    "archetype": "Exosister"
+  },
+  {
+    "id": 79858629,
+    "name": "Exosister Irene",
+    "type": "Effect Monster",
+    "archetype": "Exosister"
+  },
+  {
+    "id": 37343995,
+    "name": "Exosister Martha",
+    "type": "Effect Monster",
+    "archetype": "Exosister"
+  },
+  {
+    "id": 5352328,
+    "name": "Exosister Sophia",
+    "type": "Effect Monster",
+    "archetype": "Exosister"
+  },
+  {
+    "id": 43863925,
+    "name": "Exosister Stella",
+    "type": "Effect Monster",
+    "archetype": "Exosister"
+  },
+  {
+    "id": 20586572,
+    "name": "Exploder Dragon",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 31353051,
+    "name": "Exploderokket Dragon",
+    "type": "Effect Monster",
+    "archetype": "Rokket"
+  },
+  {
+    "id": 32391566,
+    "name": "Extra Veiler",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 20315854,
+    "name": "Fairy Dragon",
+    "type": "Normal Monster",
+    "archetype": null
+  },
+  {
+    "id": 86937530,
+    "name": "Fairy Tail - Luna",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 52022648,
+    "name": "Fairy Tail - Rella",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 65953423,
+    "name": "Fairy Tail - Rochka",
+    "type": "Effect Monster",
+    "archetype": "Fairy Tail"
+  },
+  {
+    "id": 42921475,
+    "name": "Fairy Tail - Sleeper",
+    "type": "Flip Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 68401546,
+    "name": "Fairy's Gift",
+    "type": "Normal Monster",
+    "archetype": null
+  },
+  {
+    "id": 37160778,
+    "name": "Fairywitch",
+    "type": "Normal Monster",
+    "archetype": null
+  },
+  {
+    "id": 68468459,
+    "name": "Fallen of Albaz",
+    "type": "Effect Monster",
+    "archetype": "Dogmatika"
+  },
+  {
+    "id": 31887905,
+    "name": "Familiar-Possessed - Aussa",
+    "type": "Effect Monster",
+    "archetype": "Charmer"
+  },
+  {
+    "id": 21390858,
+    "name": "Familiar-Possessed - Dharc",
+    "type": "Effect Monster",
+    "archetype": "Charmer"
+  },
+  {
+    "id": 68881649,
+    "name": "Familiar-Possessed - Eria",
+    "type": "Effect Monster",
+    "archetype": "Charmer"
+  },
+  {
+    "id": 4376658,
+    "name": "Familiar-Possessed - Hiita",
+    "type": "Effect Monster",
+    "archetype": "Charmer"
+  },
+  {
+    "id": 40542825,
+    "name": "Familiar-Possessed - Lyna",
+    "type": "Effect Monster",
+    "archetype": "Charmer"
+  },
+  {
+    "id": 31764353,
+    "name": "Familiar-Possessed - Wynn",
+    "type": "Effect Monster",
+    "archetype": "Charmer"
+  },
+  {
+    "id": 78661338,
+    "name": "Fantastical Dragon Phantazmay",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 32271987,
+    "name": "Featherizer",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 92597893,
+    "name": "Feedran, the Winds of Mischief",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 3954901,
+    "name": "Felgrand Dragon",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 27132350,
+    "name": "Fire Sorcerer",
+    "type": "Flip Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 34460851,
+    "name": "Flame Manipulator",
+    "type": "Normal Monster",
+    "archetype": null
+  },
+  {
+    "id": 68226653,
+    "name": "Flamvell Dragnov",
+    "type": "Effect Monster",
+    "archetype": "Flamvell"
+  },
+  {
+    "id": 77372241,
+    "name": "Flamvell Grunika",
+    "type": "Effect Monster",
+    "archetype": "Flamvell"
+  },
+  {
+    "id": 21615956,
+    "name": "Flamvell Guard",
+    "type": "Normal Tuner Monster",
+    "archetype": "Flamvell"
+  },
+  {
+    "id": 95621257,
+    "name": "Flamvell Magician",
+    "type": "Tuner Monster",
+    "archetype": "Flamvell"
+  },
+  {
+    "id": 61807040,
+    "name": "Flelf",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 6614221,
+    "name": "Fog King",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 63175639,
+    "name": "Fool of Prophecy",
+    "type": "Effect Monster",
+    "archetype": "Spellbook"
+  },
+  {
+    "id": 31683874,
+    "name": "Fortune Fairy Ann",
+    "type": "Effect Monster",
+    "archetype": "Fortune Fairy"
+  },
+  {
+    "id": 68078978,
+    "name": "Fortune Fairy Chee",
+    "type": "Effect Monster",
+    "archetype": "Fortune Fairy"
+  },
+  {
+    "id": 32305461,
+    "name": "Fortune Fairy En",
+    "type": "Effect Monster",
+    "archetype": "Fortune Fairy"
+  },
+  {
+    "id": 6311717,
+    "name": "Fortune Fairy Hikari",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 79890560,
+    "name": "Fortune Fairy Hu",
+    "type": "Effect Monster",
+    "archetype": "Fortune Fairy"
+  },
+  {
+    "id": 5298175,
+    "name": "Fortune Fairy Swee",
+    "type": "Effect Monster",
+    "archetype": "Fortune Fairy"
+  },
+  {
+    "id": 55586621,
+    "name": "Fortune Lady Dark",
+    "type": "Effect Monster",
+    "archetype": "Fortune Lady"
+  },
+  {
+    "id": 82971335,
+    "name": "Fortune Lady Earth",
+    "type": "Effect Monster",
+    "archetype": "Fortune Lady"
+  },
+  {
+    "id": 71870152,
+    "name": "Fortune Lady Fire",
+    "type": "Effect Monster",
+    "archetype": "Fortune Lady"
+  },
+  {
+    "id": 34471458,
+    "name": "Fortune Lady Light",
+    "type": "Effect Monster",
+    "archetype": "Fortune Lady"
+  },
+  {
+    "id": 57869175,
+    "name": "Fortune Lady Past",
+    "type": "Tuner Monster",
+    "archetype": "Fortune Lady"
+  },
+  {
+    "id": 29088922,
+    "name": "Fortune Lady Water",
+    "type": "Effect Monster",
+    "archetype": "Fortune Lady"
+  },
+  {
+    "id": 82693917,
+    "name": "Fortune Lady Wind",
+    "type": "Effect Monster",
+    "archetype": "Fortune Lady"
+  },
+  {
+    "id": 62154416,
+    "name": "Frequency Magician",
+    "type": "Tuner Monster",
+    "archetype": null
+  },
+  {
+    "id": 38742075,
+    "name": "Frontier Wiseman",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 55589254,
+    "name": "Frost and Flame Dragon",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 94203886,
+    "name": "Gagaga Child",
+    "type": "Effect Monster",
+    "archetype": "Gagaga"
+  },
+  {
+    "id": 3606728,
+    "name": "Gagaga Girl",
+    "type": "Effect Monster",
+    "archetype": "Gagaga"
+  },
+  {
+    "id": 67120578,
+    "name": "Gagaga Head",
+    "type": "Effect Monster",
+    "archetype": "Gagaga"
+  },
+  {
+    "id": 26082117,
+    "name": "Gagaga Magician",
+    "type": "Effect Monster",
+    "archetype": "Gagaga"
+  },
+  {
+    "id": 28884172,
+    "name": "Gagaga Mancer",
+    "type": "Effect Monster",
+    "archetype": "Gagaga"
+  },
+  {
+    "id": 387282,
+    "name": "Gagaga Sister",
+    "type": "Effect Monster",
+    "archetype": "Gagaga"
+  },
+  {
+    "id": 88774734,
+    "name": "Galactic Spiral Dragon",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 28770951,
+    "name": "Galaxy Cleric",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 9024367,
+    "name": "Galaxy Dragon",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 98263709,
+    "name": "Galaxy Mirror Sage",
+    "type": "Flip Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 11066358,
+    "name": "Galaxy Serpent",
+    "type": "Normal Tuner Monster",
+    "archetype": null
+  },
+  {
+    "id": 863795,
+    "name": "Galaxy Summoner",
+    "type": "Effect Monster",
+    "archetype": "Galaxy"
+  },
+  {
+    "id": 19316241,
+    "name": "Galaxy War Drake",
+    "type": "Effect Monster",
+    "archetype": "Galaxy"
+  },
+  {
+    "id": 98555327,
+    "name": "Galaxy Wizard",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 62968263,
+    "name": "Galaxy-Eyes Afterglow Dragon",
+    "type": "Effect Monster",
+    "archetype": "Galaxy-Eyes"
+  },
+  {
+    "id": 9260791,
+    "name": "Galaxy-Eyes Cloudragon",
+    "type": "Effect Monster",
+    "archetype": "Galaxy-Eyes"
+  },
+  {
+    "id": 93717133,
+    "name": "Galaxy-Eyes Photon Dragon",
+    "type": "Effect Monster",
+    "archetype": "Galaxy-Eyes"
+  },
+  {
+    "id": 45710945,
+    "name": "Galaxy-Eyes Tachyon Primal",
+    "type": "Effect Monster",
+    "archetype": "Galaxy"
+  },
+  {
+    "id": 2196767,
+    "name": "Gambler of Legend",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 64681432,
+    "name": "Gandora the Dragon of Destruction",
+    "type": "Effect Monster",
+    "archetype": "Gandora"
+  },
+  {
+    "id": 2333466,
+    "name": "Gandora-G the Dragon of Destruction",
+    "type": "Effect Monster",
+    "archetype": "Gandora"
+  },
+  {
+    "id": 71525232,
+    "name": "Gandora-X the Dragon of Demolition",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 91482773,
+    "name": "Gateway Dragon",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 53408006,
+    "name": "Gem-Merchant",
+    "type": "Effect Monster",
+    "archetype": "Gem-"
+  },
+  {
+    "id": 69140098,
+    "name": "Gemini Elf",
+    "type": "Normal Monster",
+    "archetype": null
+  },
+  {
+    "id": 19041767,
+    "name": "Gemini Summoner",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 99000107,
+    "name": "Gendo the Ascetic Monk",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 31038159,
+    "name": "Genesis Dragon",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 49370026,
+    "name": "Genin",
+    "type": "Normal Monster",
+    "archetype": "Fan-Made Cards"
+  },
+  {
+    "id": 56704140,
+    "name": "Geomancer of the Ice Barrier",
+    "type": "Tuner Monster",
+    "archetype": "Ice Barrier"
+  },
+  {
+    "id": 46925518,
+    "name": "Ghostrick Doll",
+    "type": "Effect Monster",
+    "archetype": "Ghostrick"
+  },
+  {
+    "id": 36239585,
+    "name": "Ghostrick Fairy",
+    "type": "Effect Monster",
+    "archetype": "Ghostrick"
+  },
+  {
+    "id": 24101897,
+    "name": "Ghostrick Nekomusume",
+    "type": "Effect Monster",
+    "archetype": "Ghostrick"
+  },
+  {
+    "id": 27491571,
+    "name": "Ghostrick Witch",
+    "type": "Effect Monster",
+    "archetype": "Ghostrick"
+  },
+  {
+    "id": 54490275,
+    "name": "Ghostrick Yuki-onna",
+    "type": "Effect Monster",
+    "archetype": "Ghostrick"
+  },
+  {
+    "id": 58330108,
+    "name": "Gigarays Gandora the Dragon of Destruction",
+    "type": "Effect Monster",
+    "archetype": "Gandora"
+  },
+  {
+    "id": 11449436,
+    "name": "Glacier Aqua Madoor",
+    "type": "Effect Monster",
+    "archetype": "Madoor"
+  },
+  {
+    "id": 28565527,
+    "name": "Golden Dragon Summoner",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 78642798,
+    "name": "Golden-Eyes Idol",
+    "type": "Effect Monster",
+    "archetype": "Eyes Restrict"
+  },
+  {
+    "id": 9666558,
+    "name": "Golem Dragon",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 21785144,
+    "name": "Gragonith, Lightsworn Dragon",
+    "type": "Effect Monster",
+    "archetype": "Lightsworn"
+  },
+  {
+    "id": 44190146,
+    "name": "Grandpa Demetto",
+    "type": "Effect Monster",
+    "archetype": "Doll"
+  },
+  {
+    "id": 98898163,
+    "name": "Grandtusk Dragon",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 22134079,
+    "name": "Gravekeeper's Ambusher",
+    "type": "Effect Monster",
+    "archetype": "Gravekeeper's"
+  },
+  {
+    "id": 25262697,
+    "name": "Gravekeeper's Assailant",
+    "type": "Effect Monster",
+    "archetype": "Gravekeeper's"
+  },
+  {
+    "id": 99877698,
+    "name": "Gravekeeper's Cannonholder",
+    "type": "Effect Monster",
+    "archetype": "Gravekeeper's"
+  },
+  {
+    "id": 62473983,
+    "name": "Gravekeeper's Chief",
+    "type": "Effect Monster",
+    "archetype": "Gravekeeper's"
+  },
+  {
+    "id": 17393207,
+    "name": "Gravekeeper's Commandant",
+    "type": "Effect Monster",
+    "archetype": "Gravekeeper's"
+  },
+  {
+    "id": 50712728,
+    "name": "Gravekeeper's Curse",
+    "type": "Effect Monster",
+    "archetype": "Gravekeeper's"
+  },
+  {
+    "id": 30213599,
+    "name": "Gravekeeper's Descendant",
+    "type": "Effect Monster",
+    "archetype": "Gravekeeper's"
+  },
+  {
+    "id": 37101832,
+    "name": "Gravekeeper's Guard",
+    "type": "Flip Effect Monster",
+    "archetype": "Gravekeeper's"
+  },
+  {
+    "id": 21663205,
+    "name": "Gravekeeper's Headman",
+    "type": "Effect Monster",
+    "archetype": "Gravekeeper's"
+  },
+  {
+    "id": 46955770,
+    "name": "Gravekeeper's Heretic",
+    "type": "Effect Monster",
+    "archetype": "Gravekeeper's"
+  },
+  {
+    "id": 85646474,
+    "name": "Gravekeeper's Nobleman",
+    "type": "Effect Monster",
+    "archetype": "Gravekeeper's"
+  },
+  {
+    "id": 25524823,
+    "name": "Gravekeeper's Oracle",
+    "type": "Effect Monster",
+    "archetype": "Gravekeeper's"
+  },
+  {
+    "id": 3381441,
+    "name": "Gravekeeper's Priestess",
+    "type": "Effect Monster",
+    "archetype": "Gravekeeper's"
+  },
+  {
+    "id": 93023479,
+    "name": "Gravekeeper's Recruiter",
+    "type": "Effect Monster",
+    "archetype": "Gravekeeper's"
+  },
+  {
+    "id": 58139128,
+    "name": "Gravekeeper's Shaman",
+    "type": "Effect Monster",
+    "archetype": "Gravekeeper's"
+  },
+  {
+    "id": 63695531,
+    "name": "Gravekeeper's Spear Soldier",
+    "type": "Effect Monster",
+    "archetype": "Gravekeeper's"
+  },
+  {
+    "id": 58657303,
+    "name": "Gravekeeper's Spiritualist",
+    "type": "Effect Monster",
+    "archetype": "Gravekeeper's"
+  },
+  {
+    "id": 24317029,
+    "name": "Gravekeeper's Spy",
+    "type": "Flip Effect Monster",
+    "archetype": "Gravekeeper's"
+  },
+  {
+    "id": 99690140,
+    "name": "Gravekeeper's Vassal",
+    "type": "Effect Monster",
+    "archetype": "Gravekeeper's"
+  },
+  {
+    "id": 3825890,
+    "name": "Gravekeeper's Visionary",
+    "type": "Effect Monster",
+    "archetype": "Gravekeeper's"
+  },
+  {
+    "id": 26084285,
+    "name": "Gravekeeper's Watcher",
+    "type": "Effect Monster",
+    "archetype": "Gravekeeper's"
+  },
+  {
+    "id": 9391354,
+    "name": "Gravi-Crush Dragon",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 29618570,
+    "name": "Gray Wing",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 88989706,
+    "name": "Great Dezard",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 10809984,
+    "name": "Great Phantom Thief",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 54747648,
+    "name": "Green Turtle Summoner",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 6990577,
+    "name": "Guardragon Andrake",
+    "type": "Effect Monster",
+    "archetype": "Guardragon"
+  },
+  {
+    "id": 43411769,
+    "name": "Guardragon Garmides",
+    "type": "Effect Monster",
+    "archetype": "Guardragon"
+  },
+  {
+    "id": 11012154,
+    "name": "Guardragon Justicia",
+    "type": "Normal Tuner Monster",
+    "archetype": "Guardragon"
+  },
+  {
+    "id": 79905468,
+    "name": "Guardragon Promineses",
+    "type": "Effect Monster",
+    "archetype": "Guardragon"
+  },
+  {
+    "id": 45883110,
+    "name": "Guiding Quem, the Virtuous",
+    "type": "Tuner Monster",
+    "archetype": "Despia"
+  },
+  {
+    "id": 98446407,
+    "name": "Hand of Nephthys",
+    "type": "Effect Monster",
+    "archetype": "Nephthys"
+  },
+  {
+    "id": 97904474,
+    "name": "Handcuffs Dragon",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 5640330,
+    "name": "Hannibal Necromancer",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 68473226,
+    "name": "Hardened Armed Dragon",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 6924874,
+    "name": "Harpie's Pet Baby Dragon",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 52040216,
+    "name": "Harpie's Pet Dragon",
+    "type": "Effect Monster",
+    "archetype": "Harpie"
+  },
+  {
+    "id": 4991081,
+    "name": "Harpie's Pet Dragon - Fearsome Fire Blast",
+    "type": "Effect Monster",
+    "archetype": "Harpie"
+  },
+  {
+    "id": 68199168,
+    "name": "Harr, Generaider Boss of Storms",
+    "type": "Effect Monster",
+    "archetype": "Generaider"
+  },
+  {
+    "id": 54475145,
+    "name": "Heart of the Blue-Eyes",
+    "type": "Effect Monster",
+    "archetype": "Blue-Eyes"
+  },
+  {
+    "id": 17063599,
+    "name": "Heavenly Zephyr - Miradora",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 51043053,
+    "name": "Heliosphere Dragon",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 66337215,
+    "name": "Herald of Creation",
+    "type": "Effect Monster",
+    "archetype": "Herald"
+  },
+  {
+    "id": 60316373,
+    "name": "Heraldic Beast Aberconway",
+    "type": "Effect Monster",
+    "archetype": "Heraldic"
+  },
+  {
+    "id": 87255382,
+    "name": "Heraldic Beast Amphisbaena",
+    "type": "Effect Monster",
+    "archetype": "Heraldic"
+  },
+  {
+    "id": 90743290,
+    "name": "Hermit of Prophecy",
+    "type": "Effect Monster",
+    "archetype": "Spellbook"
+  },
+  {
+    "id": 46294982,
+    "name": "Hexe Trude",
+    "type": "Effect Monster",
+    "archetype": "Golden Castle of Stromberg"
+  },
+  {
+    "id": 69109764,
+    "name": "Hibernation Dragon",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 30794966,
+    "name": "Hieratic Dragon of Asar",
+    "type": "Effect Monster",
+    "archetype": "Hieratic"
+  },
+  {
+    "id": 4022819,
+    "name": "Hieratic Dragon of Eset",
+    "type": "Effect Monster",
+    "archetype": "Hieratic"
+  },
+  {
+    "id": 78033100,
+    "name": "Hieratic Dragon of Gebeb",
+    "type": "Effect Monster",
+    "archetype": "Hieratic"
+  },
+  {
+    "id": 31516413,
+    "name": "Hieratic Dragon of Nebthet",
+    "type": "Effect Monster",
+    "archetype": "Hieratic"
+  },
+  {
+    "id": 41639001,
+    "name": "Hieratic Dragon of Nuit",
+    "type": "Effect Monster",
+    "archetype": "Hieratic"
+  },
+  {
+    "id": 3300267,
+    "name": "Hieratic Dragon of Su",
+    "type": "Effect Monster",
+    "archetype": "Hieratic"
+  },
+  {
+    "id": 66789970,
+    "name": "Hieratic Dragon of Sutekh",
+    "type": "Effect Monster",
+    "archetype": "Hieratic"
+  },
+  {
+    "id": 77901552,
+    "name": "Hieratic Dragon of Tefnuit",
+    "type": "Effect Monster",
+    "archetype": "Hieratic"
+  },
+  {
+    "id": 64514622,
+    "name": "Hieratic Seal of the Dragon King",
+    "type": "Gemini Monster",
+    "archetype": "Hieratic"
+  },
+  {
+    "id": 13140300,
+    "name": "Hieratic Seal of the Sun Dragon Overlord",
+    "type": "Normal Monster",
+    "archetype": "Hieratic"
+  },
+  {
+    "id": 86585274,
+    "name": "High Priestess of Prophecy",
+    "type": "Effect Monster",
+    "archetype": "Priestess"
+  },
+  {
+    "id": 76615300,
+    "name": "Hiita the Fire Channeler",
+    "type": "Effect Monster",
+    "archetype": "Charmer"
+  },
+  {
+    "id": 759393,
+    "name": "Hiita the Fire Charmer",
+    "type": "Flip Effect Monster",
+    "archetype": "Charmer"
+  },
+  {
+    "id": 99307040,
+    "name": "Horus the Black Flame Deity",
+    "type": "Effect Monster",
+    "archetype": "Horus"
+  },
+  {
+    "id": 75830094,
+    "name": "Horus the Black Flame Dragon LV4",
+    "type": "Effect Monster",
+    "archetype": "Horus the Black Flame Dragon"
+  },
+  {
+    "id": 11224103,
+    "name": "Horus the Black Flame Dragon LV6",
+    "type": "Effect Monster",
+    "archetype": "Horus the Black Flame Dragon"
+  },
+  {
+    "id": 48229808,
+    "name": "Horus the Black Flame Dragon LV8",
+    "type": "Effect Monster",
+    "archetype": "Horus the Black Flame Dragon"
+  },
+  {
+    "id": 90788081,
+    "name": "Hundred Dragon",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 96005454,
+    "name": "Hunter Dragon",
+    "type": "Normal Monster",
+    "archetype": null
+  },
+  {
+    "id": 15042735,
+    "name": "Hurricail",
+    "type": "Normal Monster",
+    "archetype": null
+  },
+  {
+    "id": 62397231,
+    "name": "Hyozanryu",
+    "type": "Normal Monster",
+    "archetype": null
+  },
+  {
+    "id": 97476032,
+    "name": "Ice Doll",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 32750510,
+    "name": "Ice Master",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 14462257,
+    "name": "Ice Queen",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 81686058,
+    "name": "Ill Witch",
+    "type": "Normal Monster",
+    "archetype": "Recolored counterpart"
+  },
+  {
+    "id": 12266229,
+    "name": "Illusion of Chaos",
+    "type": "Ritual Effect Monster",
+    "archetype": "Chaos"
+  },
+  {
+    "id": 28546905,
+    "name": "Illusionist Faceless Mage",
+    "type": "Normal Monster",
+    "archetype": null
+  },
+  {
+    "id": 15173384,
+    "name": "Illusionist Faceless Magician",
+    "type": "Effect Monster",
+    "archetype": "Eyes Restrict"
+  },
+  {
+    "id": 18474999,
+    "name": "Impcantation Bookstone",
+    "type": "Effect Monster",
+    "archetype": "Impcantation"
+  },
+  {
+    "id": 84941194,
+    "name": "Imsety, Glory of Horus",
+    "type": "Effect Monster",
+    "archetype": "Horus"
+  },
+  {
+    "id": 55273560,
+    "name": "Incredible Ecclesia, the Virtuous",
+    "type": "Tuner Monster",
+    "archetype": null
+  },
+  {
+    "id": 47754278,
+    "name": "Infernal Dragon",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 54936498,
+    "name": "Influence Dragon",
+    "type": "Tuner Monster",
+    "archetype": null
+  },
+  {
+    "id": 79575620,
+    "name": "Injection Fairy Lily",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 25206027,
+    "name": "Interplanetarypurplythorny Dragon",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 52675689,
+    "name": "Invitation to a Dark Sleep",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 46247282,
+    "name": "Iron Dragon Tiamaton",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 83725008,
+    "name": "Jenis, Lightsworn Mender",
+    "type": "Effect Monster",
+    "archetype": "Lightsworn"
+  },
+  {
+    "id": 8487449,
+    "name": "Jester Confit",
+    "type": "Effect Monster",
+    "archetype": "Jester"
+  },
+  {
+    "id": 72992744,
+    "name": "Jester Lord",
+    "type": "Effect Monster",
+    "archetype": "Jester"
+  },
+  {
+    "id": 64203620,
+    "name": "Jormungardr the Nordic Serpent",
+    "type": "Effect Monster",
+    "archetype": "Aesir"
+  },
+  {
+    "id": 57774843,
+    "name": "Judgment Dragon",
+    "type": "Effect Monster",
+    "archetype": "Lightsworn"
+  },
+  {
+    "id": 26732909,
+    "name": "Justice of Prophecy",
+    "type": "Effect Monster",
+    "archetype": "Spellbook"
+  },
+  {
+    "id": 7541475,
+    "name": "Kabuki Dragon",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 52824910,
+    "name": "Kaiser Glider",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 41002238,
+    "name": "Kaiser Glider - Golden Burst",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 62340868,
+    "name": "Kazejin",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 48048590,
+    "name": "Keeper of Dragon Magic",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 66752837,
+    "name": "Keeper of the Shrine",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 35629124,
+    "name": "Kidmodo Dragon",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 84814897,
+    "name": "Kiryu",
+    "type": "Union Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 16960120,
+    "name": "Kitchen Dragonmaid",
+    "type": "Effect Monster",
+    "archetype": "Dragonmaid"
+  },
+  {
+    "id": 82627406,
+    "name": "Kiwi Magician Girl",
+    "type": "Effect Monster",
+    "archetype": "Magician Girl"
+  },
+  {
+    "id": 98007437,
+    "name": "Knight Armed Dragon, the Armored Knight Dragon",
+    "type": "Effect Monster",
+    "archetype": "Light and Darkness Dragon"
+  },
+  {
+    "id": 75901113,
+    "name": "Knight of Armor Dragon",
+    "type": "Ritual Effect Monster",
+    "archetype": "Paladins of Dragons"
+  },
+  {
+    "id": 12435193,
+    "name": "Koa'ki Meiru Drago",
+    "type": "Effect Monster",
+    "archetype": "Koa'ki Meiru"
+  },
+  {
+    "id": 65026212,
+    "name": "Koa'ki Meiru Maximus",
+    "type": "Effect Monster",
+    "archetype": "Koa'ki Meiru"
+  },
+  {
+    "id": 67724379,
+    "name": "Koumori Dragon",
+    "type": "Normal Monster",
+    "archetype": null
+  },
+  {
+    "id": 37006702,
+    "name": "Krishnerd Witch",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 77363314,
+    "name": "Krystal Dragon",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 88240808,
+    "name": "Kycoo the Ghost Destroyer",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 62514770,
+    "name": "Labradorite Dragon",
+    "type": "Normal Tuner Monster",
+    "archetype": null
+  },
+  {
+    "id": 67511500,
+    "name": "Lady of D.",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 17358176,
+    "name": "Lady of Faith",
+    "type": "Normal Monster",
+    "archetype": null
+  },
+  {
+    "id": 75850803,
+    "name": "LaMoon",
+    "type": "Normal Monster",
+    "archetype": null
+  },
+  {
+    "id": 11125718,
+    "name": "Lancer Dragonute",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 46272804,
+    "name": "Lancer Lindwurm",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 13171876,
+    "name": "Laundry Dragonmaid",
+    "type": "Effect Monster",
+    "archetype": "Dragonmaid"
+  },
+  {
+    "id": 41741922,
+    "name": "Lava Dragon",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 7902349,
+    "name": "Left Arm of the Forbidden One",
+    "type": "Normal Monster",
+    "archetype": "Exodia"
+  },
+  {
+    "id": 44519536,
+    "name": "Left Leg of the Forbidden One",
+    "type": "Normal Monster",
+    "archetype": "Exodia"
+  },
+  {
+    "id": 60258960,
+    "name": "Legendary Flame Lord",
+    "type": "Ritual Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 25280974,
+    "name": "Legion the Fiend Jester",
+    "type": "Effect Monster",
+    "archetype": "Jester"
+  },
+  {
+    "id": 34318086,
+    "name": "Lemon Magician Girl",
+    "type": "Effect Monster",
+    "archetype": "Magician Girl"
+  },
+  {
+    "id": 70298454,
+    "name": "Leng Ling",
+    "type": "Union Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 4392470,
+    "name": "Leo Wizard",
+    "type": "Normal Monster",
+    "archetype": "Recolored counterpart"
+  },
+  {
+    "id": 55423549,
+    "name": "Leo Wizard, the Dark Mage",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 55444629,
+    "name": "Lesser Dragon",
+    "type": "Normal Monster",
+    "archetype": null
+  },
+  {
+    "id": 82128978,
+    "name": "Libromancer Magigirl",
+    "type": "Effect Monster",
+    "archetype": "Libromancer"
+  },
+  {
+    "id": 47297616,
+    "name": "Light and Darkness Dragon",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 35614780,
+    "name": "Light End Sublimation Dragon",
+    "type": "Effect Monster",
+    "archetype": "Light and Darkness Dragon"
+  },
+  {
+    "id": 89185742,
+    "name": "Lightning, Dragon Ruler of Drafts",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 99365553,
+    "name": "Lightpulsar Dragon",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 30126992,
+    "name": "Lightray Diabolos",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 82579942,
+    "name": "Lightray Madoor",
+    "type": "Effect Monster",
+    "archetype": "Madoor"
+  },
+  {
+    "id": 91349449,
+    "name": "Lightray Sorcerer",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 59481082,
+    "name": "Lightsworn Dragonling",
+    "type": "Effect Monster",
+    "archetype": "Lightsworn"
+  },
+  {
+    "id": 63092423,
+    "name": "Linkbelt Wall Dragon",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 82699999,
+    "name": "Live☆Twin Lil-la Sweet",
+    "type": "Effect Monster",
+    "archetype": "Lil-la"
+  },
+  {
+    "id": 20831168,
+    "name": "Lizard Soldier",
+    "type": "Normal Monster",
+    "archetype": null
+  },
+  {
+    "id": 40666140,
+    "name": "Ljosalf of the Nordic Alfar",
+    "type": "Effect Monster",
+    "archetype": "Nordic"
+  },
+  {
+    "id": 17985575,
+    "name": "Lord of D.",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 19025379,
+    "name": "Lord of the Red",
+    "type": "Ritual Effect Monster",
+    "archetype": "Red-Eyes"
+  },
+  {
+    "id": 3985011,
+    "name": "Lucky Trinket",
+    "type": "Normal Monster",
+    "archetype": null
+  },
+  {
+    "id": 95503687,
+    "name": "Lumina, Lightsworn Summoner",
+    "type": "Effect Monster",
+    "archetype": "Lightsworn"
+  },
+  {
+    "id": 56166150,
+    "name": "Lumina, Twilightsworn Shaman",
+    "type": "Effect Monster",
+    "archetype": "Lightsworn"
+  },
+  {
+    "id": 11091375,
+    "name": "Luster Dragon",
+    "type": "Normal Monster",
+    "archetype": null
+  },
+  {
+    "id": 17658803,
+    "name": "Luster Dragon #2",
+    "type": "Normal Monster",
+    "archetype": null
+  },
+  {
+    "id": 22624373,
+    "name": "Lyla, Lightsworn Sorceress",
+    "type": "Effect Monster",
+    "archetype": "Lightsworn"
+  },
+  {
+    "id": 10071151,
+    "name": "Lyla, Twilightsworn Enchantress",
+    "type": "Effect Monster",
+    "archetype": "Lightsworn"
+  },
+  {
+    "id": 73318863,
+    "name": "Lyna the Light Charmer",
+    "type": "Flip Effect Monster",
+    "archetype": "Charmer"
+  },
+  {
+    "id": 48252330,
+    "name": "Madolche Butlerusk",
+    "type": "Effect Monster",
+    "archetype": "Madolche"
+  },
+  {
+    "id": 11868731,
+    "name": "Madolche Magileine",
+    "type": "Effect Monster",
+    "archetype": "Madolche"
+  },
+  {
+    "id": 26016357,
+    "name": "Madolche Marmalmaide",
+    "type": "Effect Monster",
+    "archetype": "Madolche"
+  },
+  {
+    "id": 22530212,
+    "name": "Magic Hand",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 72171665,
+    "name": "Magical Broker",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 6061630,
+    "name": "Magical Exemplar",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 8034697,
+    "name": "Magical Marionette",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 7802006,
+    "name": "Magical Plant Mandragola",
+    "type": "Flip Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 43930492,
+    "name": "Magical Something",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 30608985,
+    "name": "Magical Undertaker",
+    "type": "Flip Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 25531465,
+    "name": "Magicat",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 79613121,
+    "name": "Magician of Black Chaos MAX",
+    "type": "Ritual Effect Monster",
+    "archetype": "Dark Magician"
+  },
+  {
+    "id": 47963370,
+    "name": "Magician of Chaos",
+    "type": "Ritual Effect Monster",
+    "archetype": "Dark Magician"
+  },
+  {
+    "id": 35191415,
+    "name": "Magician of Dark Illusion",
+    "type": "Effect Monster",
+    "archetype": "Dark Magician"
+  },
+  {
+    "id": 31560081,
+    "name": "Magician of Faith",
+    "type": "Flip Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 67853262,
+    "name": "Magician of Faithfulness",
+    "type": "Flip Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 71696014,
+    "name": "Magician's Robe",
+    "type": "Effect Monster",
+    "archetype": "Dark Magician"
+  },
+  {
+    "id": 7084129,
+    "name": "Magician's Rod",
+    "type": "Effect Monster",
+    "archetype": "Dark Magician"
+  },
+  {
+    "id": 80304126,
+    "name": "Magician's Valkyria",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 15845914,
+    "name": "Magicians of Bonds and Unity",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 97631303,
+    "name": "Magicians' Souls",
+    "type": "Effect Monster",
+    "archetype": "Dark Magician"
+  },
+  {
+    "id": 47929865,
+    "name": "Magidog",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 36750412,
+    "name": "Magna Drago",
+    "type": "Tuner Monster",
+    "archetype": null
+  },
+  {
+    "id": 72903645,
+    "name": "Magna-Slash Dragon",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 26655293,
+    "name": "Magnarokket Dragon",
+    "type": "Effect Monster",
+    "archetype": "Rokket"
+  },
+  {
+    "id": 93013676,
+    "name": "Maha Vailo",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 45796834,
+    "name": "Maha Vailo, Light of the Heavens",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 545781,
+    "name": "Mahaama the Fairy Dragon",
+    "type": "Tuner Monster",
+    "archetype": null
+  },
+  {
+    "id": 84055227,
+    "name": "Maiden of Macabre",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 79629370,
+    "name": "Maiden of the Moonlight",
+    "type": "Normal Monster",
+    "archetype": null
+  },
+  {
+    "id": 17947697,
+    "name": "Maiden of White",
+    "type": "Tuner Monster",
+    "archetype": null
+  },
+  {
+    "id": 88241506,
+    "name": "Maiden with Eyes of Blue",
+    "type": "Tuner Monster",
+    "archetype": "Blue-Eyes"
+  },
+  {
+    "id": 21159309,
+    "name": "Majestic Dragon",
+    "type": "Tuner Monster",
+    "archetype": "Majestic"
+  },
+  {
+    "id": 9433350,
+    "name": "Malefic Blue-Eyes White Dragon",
+    "type": "Effect Monster",
+    "archetype": "Blue-Eyes"
+  },
+  {
+    "id": 11074235,
+    "name": "Mana Dragon Zirnitron",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 38369349,
+    "name": "Manga Ryu-Ran",
+    "type": "Toon Monster",
+    "archetype": "Toon"
+  },
+  {
+    "id": 33455338,
+    "name": "Maniacal Servant",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 73417207,
+    "name": "Mara of the Nordic Alfar",
+    "type": "Tuner Monster",
+    "archetype": "Nordic"
+  },
+  {
+    "id": 39191307,
+    "name": "Masked Dragon",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 10189126,
+    "name": "Masked Sorcerer",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 34079868,
+    "name": "Master Peace, the True Dracoslayer",
+    "type": "Effect Monster",
+    "archetype": "Dracoslayer"
+  },
+  {
+    "id": 45644898,
+    "name": "Master with Eyes of Blue",
+    "type": "Tuner Monster",
+    "archetype": "Blue-Eyes"
+  },
+  {
+    "id": 37426272,
+    "name": "Materiactor Exareptor",
+    "type": "Effect Monster",
+    "archetype": "Materiactor"
+  },
+  {
+    "id": 33008376,
+    "name": "Materiactor Gigadra",
+    "type": "Effect Monster",
+    "archetype": "Materiactor"
+  },
+  {
+    "id": 64911387,
+    "name": "Materiactor Zeptwing",
+    "type": "Effect Monster",
+    "archetype": "Materiactor"
+  },
+  {
+    "id": 41386308,
+    "name": "Mathematician",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 52904476,
+    "name": "Matriarch of Nephthys",
+    "type": "Effect Monster",
+    "archetype": "Nephthys"
+  },
+  {
+    "id": 88494899,
+    "name": "Medium of the Ice Barrier",
+    "type": "Effect Monster",
+    "archetype": "Ice Barrier"
+  },
+  {
+    "id": 83035296,
+    "name": "Megistric Maginician",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 47731128,
+    "name": "Mei-Kou, Master of Barriers",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 54550967,
+    "name": "Mementotlan Angwitch",
+    "type": "Effect Monster",
+    "archetype": "Memento"
+  },
+  {
+    "id": 55272555,
+    "name": "Mementotlan-Horned Dragon",
+    "type": "Effect Monster",
+    "archetype": "Memento"
+  },
+  {
+    "id": 29157292,
+    "name": "Metal Illusionist",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 32472237,
+    "name": "Metalrokket Dragon",
+    "type": "Effect Monster",
+    "archetype": "Rokket"
+  },
+  {
+    "id": 64271667,
+    "name": "Meteor Dragon",
+    "type": "Normal Monster",
+    "archetype": null
+  },
+  {
+    "id": 17871506,
+    "name": "Meteor Dragon Red-Eyes Impact",
+    "type": "Gemini Monster",
+    "archetype": "Red-Eyes"
+  },
+  {
+    "id": 38277918,
+    "name": "Mikazukinoyaiba",
+    "type": "Normal Monster",
+    "archetype": null
+  },
+  {
+    "id": 85753549,
+    "name": "Mikazukinoyaiba, the Moon Fang Dragon",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 33225925,
+    "name": "Milla the Temporal Magician",
+    "type": "Effect Monster",
+    "archetype": "Magician"
+  },
+  {
+    "id": 5130393,
+    "name": "Millennium Seeker",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 89785779,
+    "name": "Millennium-Eyes Illusionist",
+    "type": "Effect Monster",
+    "archetype": "Eyes Restrict"
+  },
+  {
+    "id": 81522098,
+    "name": "Mimighoul Dragon",
+    "type": "Flip Effect Monster",
+    "archetype": "Mimighoul"
+  },
+  {
+    "id": 66690411,
+    "name": "Mind on Air",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 40164421,
+    "name": "Minerva, Lightsworn Maiden",
+    "type": "Tuner Monster",
+    "archetype": "Lightsworn"
+  },
+  {
+    "id": 44201739,
+    "name": "Mira Match",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 131182,
+    "name": "Miracle Flipper",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 15960641,
+    "name": "Mirage Dragon",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 29054481,
+    "name": "Mist Valley Watcher",
+    "type": "Normal Monster",
+    "archetype": "Mist Valley"
+  },
+  {
+    "id": 23303072,
+    "name": "Montage Dragon",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 336601,
+    "name": "Moon Gardna",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 74941992,
+    "name": "Moon Magician",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 29439831,
+    "name": "Morgana the Witch of Eyes",
+    "type": "Effect Monster",
+    "archetype": "Morganite"
+  },
+  {
+    "id": 11508758,
+    "name": "Mutant Mindmaster",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 1347977,
+    "name": "Mysterious Guard",
+    "type": "Flip Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 98049915,
+    "name": "Mystic Lamp",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 14198496,
+    "name": "Mystic Piper",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 15025844,
+    "name": "Mystical Elf",
+    "type": "Normal Monster",
+    "archetype": null
+  },
+  {
+    "id": 15613529,
+    "name": "Mystical Elf - White Lightning",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 85239662,
+    "name": "Mystical Fairy Elfuria",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 81263643,
+    "name": "Mystrick Hulder",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 50457953,
+    "name": "Mythic Tree Dragon",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 92841002,
+    "name": "Mythic Water Dragon",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 55424270,
+    "name": "Mythical Beast Cerberus",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 61089209,
+    "name": "Myutant Mist",
+    "type": "Effect Monster",
+    "archetype": "Myutant"
+  },
+  {
+    "id": 51786039,
+    "name": "Nebula Dragon",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 94655777,
+    "name": "Nebulus, Dragon Ruler of Mishaps",
+    "type": "Effect Monster",
+    "archetype": "Dragon Ruler"
+  },
+  {
+    "id": 61454890,
+    "name": "Necrolancer the Time-lord",
+    "type": "Normal Monster",
+    "archetype": null
+  },
+  {
+    "id": 90963488,
+    "name": "Nemuriko",
+    "type": "Normal Monster",
+    "archetype": null
+  },
+  {
+    "id": 49563947,
+    "name": "Neo Aqua Madoor",
+    "type": "Normal Monster",
+    "archetype": "Madoor"
+  },
+  {
+    "id": 45885288,
+    "name": "Neo Kaiser Glider",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 54332792,
+    "name": "Neo Kaiser Sea Horse",
+    "type": "Tuner Monster",
+    "archetype": null
+  },
+  {
+    "id": 50930991,
+    "name": "Neo the Magic Swordsman",
+    "type": "Normal Monster",
+    "archetype": null
+  },
+  {
+    "id": 5126490,
+    "name": "Neos Wiseman",
+    "type": "Effect Monster",
+    "archetype": "Elemental HERO"
+  },
+  {
+    "id": 54862960,
+    "name": "Ni-Ni the Mirror Mikanko",
+    "type": "Effect Monster",
+    "archetype": "Mikanko"
+  },
+  {
+    "id": 49826746,
+    "name": "Night Wing Sorceress",
+    "type": "Effect Monster",
+    "archetype": "Assault Mode"
+  },
+  {
+    "id": 36107810,
+    "name": "Night's End Sorcerer",
+    "type": "Tuner Monster",
+    "archetype": null
+  },
+  {
+    "id": 70333910,
+    "name": "Noctovision Dragon",
+    "type": "Effect Monster",
+    "archetype": "Rokket"
+  },
+  {
+    "id": 25607552,
+    "name": "Nowru Aries the Vernal Dragon",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 40398073,
+    "name": "Nurse Dragonmaid",
+    "type": "Effect Monster",
+    "archetype": "Dragonmaid"
+  },
+  {
+    "id": 45141844,
+    "name": "Old Vindictive Magician",
+    "type": "Flip Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 8972398,
+    "name": "Omni Dragon Brotaur",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 33064647,
+    "name": "One-Eyed Shield Dragon",
+    "type": "Normal Monster",
+    "archetype": null
+  },
+  {
+    "id": 42280216,
+    "name": "Oracle of the Sun",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 39751094,
+    "name": "Otohime",
+    "type": "Spirit Monster",
+    "archetype": null
+  },
+  {
+    "id": 87263576,
+    "name": "Outburst Dragon",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 76589546,
+    "name": "Overflow Dragon",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 71408082,
+    "name": "Paladin of Dark Dragon",
+    "type": "Ritual Effect Monster",
+    "archetype": "Red-Eyes"
+  },
+  {
+    "id": 73398797,
+    "name": "Paladin of White Dragon",
+    "type": "Ritual Effect Monster",
+    "archetype": "Blue-Eyes"
+  },
+  {
+    "id": 71703785,
+    "name": "Palladium Oracle Mahad",
+    "type": "Effect Monster",
+    "archetype": "Dark Magician"
+  },
+  {
+    "id": 42006475,
+    "name": "Palladium Oracle Mana",
+    "type": "Effect Monster",
+    "archetype": "Dark Magician"
+  },
+  {
+    "id": 68299524,
+    "name": "Pandemic Dragon",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 88453933,
+    "name": "Parlor Dragonmaid",
+    "type": "Effect Monster",
+    "archetype": "Dragonmaid"
+  },
+  {
+    "id": 62762898,
+    "name": "Parrot Dragon",
+    "type": "Normal Monster",
+    "archetype": "Toon"
+  },
+  {
+    "id": 32872833,
+    "name": "Parsec, the Interstellar Dragon",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 68819554,
+    "name": "Performage Damage Juggler",
+    "type": "Effect Monster",
+    "archetype": "Performage"
+  },
+  {
+    "id": 4807253,
+    "name": "Performage Flame Eater",
+    "type": "Effect Monster",
+    "archetype": "Performage"
+  },
+  {
+    "id": 31292357,
+    "name": "Performage Hat Tricker",
+    "type": "Effect Monster",
+    "archetype": "Performage"
+  },
+  {
+    "id": 4081665,
+    "name": "Performage Stilts Launcher",
+    "type": "Effect Monster",
+    "archetype": "Performage"
+  },
+  {
+    "id": 67696066,
+    "name": "Performage Trick Clown",
+    "type": "Effect Monster",
+    "archetype": "Performage"
+  },
+  {
+    "id": 3859859,
+    "name": "Performapal Sky Magician Girl",
+    "type": "Effect Monster",
+    "archetype": "Magician Girl"
+  },
+  {
+    "id": 52624755,
+    "name": "Peten the Dark Clown",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 75356564,
+    "name": "Petit Dragon",
+    "type": "Normal Monster",
+    "archetype": null
+  },
+  {
+    "id": 77603950,
+    "name": "Phantom Dewan",
+    "type": "Normal Monster",
+    "archetype": null
+  },
+  {
+    "id": 49879995,
+    "name": "Phantom Dragon",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 24103628,
+    "name": "Phantom Magician",
+    "type": "Effect Monster",
+    "archetype": "HERO"
+  },
+  {
+    "id": 23099524,
+    "name": "Pharaonic Advent",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 19153590,
+    "name": "Pile Armed Dragon",
+    "type": "Effect Monster",
+    "archetype": "Armed Dragon"
+  },
+  {
+    "id": 47415292,
+    "name": "Pitch-Dark Dragon",
+    "type": "Union Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 35429292,
+    "name": "Pixie Knight",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 8175346,
+    "name": "Poki Draco",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 80476891,
+    "name": "Poly-Chemicritter Hydragon",
+    "type": "Gemini Monster",
+    "archetype": "Chemicritter"
+  },
+  {
+    "id": 55063681,
+    "name": "Power Supplier",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 50621530,
+    "name": "Powered Tuner",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 36734924,
+    "name": "Priestess with Eyes of Blue",
+    "type": "Tuner Monster",
+    "archetype": "Blue-Eyes"
+  },
+  {
+    "id": 64025981,
+    "name": "Primal Dragon, the Primordial",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 12298909,
+    "name": "Prime Material Dragon",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 63198739,
+    "name": "Primite Dragon Ether Beryl",
+    "type": "Effect Monster",
+    "archetype": "Primite"
+  },
+  {
+    "id": 81418467,
+    "name": "Primite Imperial Dragon",
+    "type": "Effect Monster",
+    "archetype": "Primite"
+  },
+  {
+    "id": 2316186,
+    "name": "Princess Curran",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 75917088,
+    "name": "Princess Pikeru",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 56174248,
+    "name": "Prophecy Destroyer",
+    "type": "Effect Monster",
+    "archetype": "Spellbook"
+  },
+  {
+    "id": 72855441,
+    "name": "Protector with Eyes of Blue",
+    "type": "Tuner Monster",
+    "archetype": "Blue-Eyes"
+  },
+  {
+    "id": 19959563,
+    "name": "Punishment Dragon",
+    "type": "Effect Monster",
+    "archetype": "Lightsworn"
+  },
+  {
+    "id": 24635329,
+    "name": "Qadshaddoll Keios",
+    "type": "Flip Effect Monster",
+    "archetype": "Shaddoll"
+  },
+  {
+    "id": 95788410,
+    "name": "Rabidragon",
+    "type": "Normal Monster",
+    "archetype": null
+  },
+  {
+    "id": 70856343,
+    "name": "Radiant Vouirescence",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 6483224,
+    "name": "Radius, the Half-Moon Dragon",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 38916526,
+    "name": "Rafale, Champion Fur Hire",
+    "type": "Effect Monster",
+    "archetype": "Fur Hire"
+  },
+  {
+    "id": 56524813,
+    "name": "Raging Eria",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 8836329,
+    "name": "Raging Storm Dragon - Beaufort IX",
+    "type": "Ritual Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 79407975,
+    "name": "Rainbow Dark Dragon",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 79856792,
+    "name": "Rainbow Dragon",
+    "type": "Effect Monster",
+    "archetype": "Crystal Beast"
+  },
+  {
+    "id": 44680819,
+    "name": "Ranryu",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 6337436,
+    "name": "Rapid-Fire Magician",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 25236056,
+    "name": "Rare Metal Dragon",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 91020571,
+    "name": "Reactan, Dragon Ruler of Pebbles",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 9560338,
+    "name": "Reaper of Prophecy",
+    "type": "Effect Monster",
+    "archetype": "Spellbook"
+  },
+  {
+    "id": 77336644,
+    "name": "Red Dragon Archfiend/Assault Mode",
+    "type": "Effect Monster",
+    "archetype": "Assault Mode"
+  },
+  {
+    "id": 26118970,
+    "name": "Red Rose Dragon",
+    "type": "Tuner Monster",
+    "archetype": "Rose Dragon"
+  },
+  {
+    "id": 81354330,
+    "name": "Red Sparrow Summoner",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 18491580,
+    "name": "Red-Eyes Alternative Black Dragon",
+    "type": "Effect Monster",
+    "archetype": "Red-Eyes"
+  },
+  {
+    "id": 58257569,
+    "name": "Red-Eyes Baby Dragon",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 74677422,
+    "name": "Red-Eyes Black Dragon",
+    "type": "Normal Monster",
+    "archetype": "Red-Eyes"
+  },
+  {
+    "id": 30079770,
+    "name": "Red-Eyes Black Flare Dragon",
+    "type": "Gemini Monster",
+    "archetype": "Red-Eyes"
+  },
+  {
+    "id": 27657173,
+    "name": "Red-Eyes Black Meteor Dragon",
+    "type": "Effect Monster",
+    "archetype": "Red-Eyes"
+  },
+  {
+    "id": 96561011,
+    "name": "Red-Eyes Darkness Dragon",
+    "type": "Effect Monster",
+    "archetype": "Red-Eyes"
+  },
+  {
+    "id": 88264978,
+    "name": "Red-Eyes Darkness Metal Dragon",
+    "type": "Effect Monster",
+    "archetype": "Red-Eyes"
+  },
+  {
+    "id": 83711531,
+    "name": "Red-Eyes Metal Claws Dragon",
+    "type": "Effect Monster",
+    "archetype": "Red-Eyes"
+  },
+  {
+    "id": 53485634,
+    "name": "Red-Eyes Retro Dragon",
+    "type": "Effect Monster",
+    "archetype": "Red-Eyes"
+  },
+  {
+    "id": 6556909,
+    "name": "Red-Eyes Soul",
+    "type": "Effect Monster",
+    "archetype": "Red-Eyes"
+  },
+  {
+    "id": 31733941,
+    "name": "Red-Eyes Toon Dragon",
+    "type": "Toon Monster",
+    "archetype": "Toon"
+  },
+  {
+    "id": 67300516,
+    "name": "Red-Eyes Wyvern",
+    "type": "Effect Monster",
+    "archetype": "Red-Eyes"
+  },
+  {
+    "id": 90411554,
+    "name": "Redox, Dragon Ruler of Boulders",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 59323650,
+    "name": "Regenesis Dragon",
+    "type": "Effect Monster",
+    "archetype": "Regenesis"
+  },
+  {
+    "id": 22938501,
+    "name": "Regenesis Sage",
+    "type": "Effect Monster",
+    "archetype": "Regenesis"
+  },
+  {
+    "id": 64631466,
+    "name": "Relinquished",
+    "type": "Ritual Effect Monster",
+    "archetype": "Eyes Restrict"
+  },
+  {
+    "id": 18319762,
+    "name": "Revealer of the Ice Barrier",
+    "type": "Effect Monster",
+    "archetype": "Ice Barrier"
+  },
+  {
+    "id": 14235211,
+    "name": "Rider of the Storm Winds",
+    "type": "Tuner Monster",
+    "archetype": null
+  },
+  {
+    "id": 70903634,
+    "name": "Right Arm of the Forbidden One",
+    "type": "Normal Monster",
+    "archetype": "Exodia"
+  },
+  {
+    "id": 8124921,
+    "name": "Right Leg of the Forbidden One",
+    "type": "Normal Monster",
+    "archetype": "Exodia"
+  },
+  {
+    "id": 72498838,
+    "name": "Rilliona, the Magistus of Verre",
+    "type": "Effect Monster",
+    "archetype": "Magistus"
+  },
+  {
+    "id": 30765615,
+    "name": "Ringowurm, the Dragon Guarding the Hundred Apples",
+    "type": "Tuner Monster",
+    "archetype": null
+  },
+  {
+    "id": 82818645,
+    "name": "Rock Spirit",
+    "type": "Normal Monster",
+    "archetype": "Recolored counterpart"
+  },
+  {
+    "id": 91939608,
+    "name": "Rogue Doll",
+    "type": "Normal Monster",
+    "archetype": null
+  },
+  {
+    "id": 44640691,
+    "name": "Rogue of Endymion",
+    "type": "Effect Monster",
+    "archetype": "Endymion"
+  },
+  {
+    "id": 67127799,
+    "name": "Rokket Caliber",
+    "type": "Tuner Monster",
+    "archetype": "Rokket"
+  },
+  {
+    "id": 5969957,
+    "name": "Rokket Recharger",
+    "type": "Effect Monster",
+    "archetype": "Rokket"
+  },
+  {
+    "id": 48355999,
+    "name": "Rokket Synchron",
+    "type": "Tuner Monster",
+    "archetype": "Rokket"
+  },
+  {
+    "id": 68464358,
+    "name": "Rokket Tracer",
+    "type": "Tuner Monster",
+    "archetype": "Rokket"
+  },
+  {
+    "id": 93708824,
+    "name": "Roxrose Dragon",
+    "type": "Tuner Monster",
+    "archetype": "Rose"
+  },
+  {
+    "id": 70791313,
+    "name": "Royal Magical Library",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 24779554,
+    "name": "Rucia of the White Forest",
+    "type": "Tuner Monster",
+    "archetype": "White Forest"
+  },
+  {
+    "id": 2964201,
+    "name": "Ryu-Ran",
+    "type": "Normal Monster",
+    "archetype": null
+  },
+  {
+    "id": 58363151,
+    "name": "S-Force Pla-Tina",
+    "type": "Effect Monster",
+    "archetype": "S-Force"
+  },
+  {
+    "id": 45282603,
+    "name": "Saambell the Summoner",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 10804018,
+    "name": "Saffira, Divine Dragon of the Voiceless Voice",
+    "type": "Ritual Effect Monster",
+    "archetype": "Voiceless Voice"
+  },
+  {
+    "id": 51296484,
+    "name": "Saffira, Dragon Queen of the Voiceless Voice",
+    "type": "Effect Monster",
+    "archetype": "Voiceless Voice"
+  },
+  {
+    "id": 56350972,
+    "name": "Saffira, Queen of Dragons",
+    "type": "Ritual Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 26669055,
+    "name": "Sage of Silence",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 62054060,
+    "name": "Sage of Stillness",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 8240199,
+    "name": "Sage with Eyes of Blue",
+    "type": "Tuner Monster",
+    "archetype": "Blue-Eyes"
+  },
+  {
+    "id": 66602787,
+    "name": "Saggi the Dark Clown",
+    "type": "Normal Monster",
+    "archetype": null
+  },
+  {
+    "id": 37531679,
+    "name": "Salamandra, the Flying Flame Dragon",
+    "type": "Effect Monster",
+    "archetype": "Flame Swordsman"
+  },
+  {
+    "id": 33750025,
+    "name": "Samsara Dragon",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 50593156,
+    "name": "Sand Gambler",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 85032782,
+    "name": "Sauge de Fleur",
+    "type": "Effect Monster",
+    "archetype": "Fleur"
+  },
+  {
+    "id": 88284599,
+    "name": "Sauravis, Dragon Sage of the Voiceless Voice",
+    "type": "Effect Monster",
+    "archetype": "Voiceless Voice"
+  },
+  {
+    "id": 4810828,
+    "name": "Sauravis, the Ancient and Ascended",
+    "type": "Ritual Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 18294799,
+    "name": "Schwarzschild Infinity Dragon",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 6930746,
+    "name": "Schwarzschild Limit Dragon",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 2468169,
+    "name": "Sealmaster Meisei",
+    "type": "Normal Monster",
+    "archetype": null
+  },
+  {
+    "id": 24062258,
+    "name": "Secret Sect Druid Dru",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 97064649,
+    "name": "Secret Sect Druid Wid",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 15507080,
+    "name": "Sectarian of Secrets",
+    "type": "Normal Monster",
+    "archetype": null
+  },
+  {
+    "id": 6740720,
+    "name": "Seiyaryu",
+    "type": "Normal Monster",
+    "archetype": null
+  },
+  {
+    "id": 29303524,
+    "name": "Seleglare the Luminous Lunar Dragon",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 23093373,
+    "name": "Selettrice Vaalmonica",
+    "type": "Effect Monster",
+    "archetype": "Vaalmonica"
+  },
+  {
+    "id": 66516792,
+    "name": "Serpent Night Dragon",
+    "type": "Normal Monster",
+    "archetype": null
+  },
+  {
+    "id": 3717252,
+    "name": "Shaddoll Beast",
+    "type": "Flip Effect Monster",
+    "archetype": "Shaddoll"
+  },
+  {
+    "id": 77723643,
+    "name": "Shaddoll Dragon",
+    "type": "Flip Effect Monster",
+    "archetype": "Shaddoll"
+  },
+  {
+    "id": 37445295,
+    "name": "Shaddoll Falco",
+    "type": "Flip Tuner Effect Monster",
+    "archetype": "Shaddoll"
+  },
+  {
+    "id": 4939890,
+    "name": "Shaddoll Hedgehog",
+    "type": "Flip Effect Monster",
+    "archetype": "Shaddoll"
+  },
+  {
+    "id": 52551211,
+    "name": "Shaddoll Hound",
+    "type": "Flip Effect Monster",
+    "archetype": "Shaddoll"
+  },
+  {
+    "id": 30328508,
+    "name": "Shaddoll Squamata",
+    "type": "Flip Effect Monster",
+    "archetype": "Shaddoll"
+  },
+  {
+    "id": 27869883,
+    "name": "Shadowpriestess of Ohm",
+    "type": "Effect Monster",
+    "archetype": "Priestess"
+  },
+  {
+    "id": 5087128,
+    "name": "Shelrokket Dragon",
+    "type": "Effect Monster",
+    "archetype": "Rokket"
+  },
+  {
+    "id": 75874514,
+    "name": "Shining Star Dragon",
+    "type": "Tuner Monster",
+    "archetype": null
+  },
+  {
+    "id": 38528901,
+    "name": "Shock Troops of the Ice Barrier",
+    "type": "Effect Monster",
+    "archetype": "Ice Barrier"
+  },
+  {
+    "id": 41175645,
+    "name": "Silent Magician",
+    "type": "Effect Monster",
+    "archetype": "Silent Magician"
+  },
+  {
+    "id": 73665146,
+    "name": "Silent Magician LV4",
+    "type": "Effect Monster",
+    "archetype": "Silent Magician"
+  },
+  {
+    "id": 72443568,
+    "name": "Silent Magician LV8",
+    "type": "Effect Monster",
+    "archetype": "Silent Magician"
+  },
+  {
+    "id": 65726770,
+    "name": "Silent Magician Zero",
+    "type": "Effect Monster",
+    "archetype": "Silent Magician"
+  },
+  {
+    "id": 32476603,
+    "name": "Silverrokket Dragon",
+    "type": "Effect Monster",
+    "archetype": "Rokket"
+  },
+  {
+    "id": 98385955,
+    "name": "Silvy of the White Forest",
+    "type": "Tuner Monster",
+    "archetype": "White Forest"
+  },
+  {
+    "id": 88901771,
+    "name": "Skilled Blue Magician",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 88232397,
+    "name": "Skilled Brown Magician",
+    "type": "Effect Monster",
+    "archetype": "Skilled Magician"
+  },
+  {
+    "id": 73752131,
+    "name": "Skilled Dark Magician",
+    "type": "Effect Monster",
+    "archetype": "Dark Magician"
+  },
+  {
+    "id": 65338781,
+    "name": "Skilled Red Magician",
+    "type": "Effect Monster",
+    "archetype": "Archfiend"
+  },
+  {
+    "id": 46363422,
+    "name": "Skilled White Magician",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 95288024,
+    "name": "Sky Dragon",
+    "type": "Normal Monster",
+    "archetype": null
+  },
+  {
+    "id": 27260347,
+    "name": "Snake-Eyes Diabellstar",
+    "type": "Effect Monster",
+    "archetype": "Snake-Eye"
+  },
+  {
+    "id": 48452496,
+    "name": "Snake-Eyes Flamberge Dragon",
+    "type": "Effect Monster",
+    "archetype": "Snake-Eye"
+  },
+  {
+    "id": 27877771,
+    "name": "Sniffer Dragon",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 3070049,
+    "name": "Snow Dragon",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 67675300,
+    "name": "Snowdust Dragon",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 7805147,
+    "name": "Soldier Dragons",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 28966434,
+    "name": "Solitaire Magician",
+    "type": "Effect Monster",
+    "archetype": "Fortune Lady"
+  },
+  {
+    "id": 88619463,
+    "name": "Sorcerer of Dark Magic",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 49218300,
+    "name": "Sorcerer of the Doomed",
+    "type": "Normal Monster",
+    "archetype": null
+  },
+  {
+    "id": 36405256,
+    "name": "Sorciere de Fleur",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 55735315,
+    "name": "Soul Drain Dragon",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 47643326,
+    "name": "Space Omajinai Usagi",
+    "type": "Normal Tuner Monster",
+    "archetype": null
+  },
+  {
+    "id": 44308317,
+    "name": "Speaker for the Ice Barriers",
+    "type": "Effect Monster",
+    "archetype": "Ice Barrier"
+  },
+  {
+    "id": 31553716,
+    "name": "Spear Dragon",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 58201062,
+    "name": "Spectral, Dragon Ruler of Flickers",
+    "type": "Effect Monster",
+    "archetype": "Dragon Ruler"
+  },
+  {
+    "id": 12950294,
+    "name": "Speedburst Dragon",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 45118716,
+    "name": "Spell Recycler",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 14824019,
+    "name": "Spellbook Magician of Prophecy",
+    "type": "Effect Monster",
+    "archetype": "Spellbook"
+  },
+  {
+    "id": 73061465,
+    "name": "Spellbreaker of the Ice Barrier",
+    "type": "Effect Monster",
+    "archetype": "Ice Barrier"
+  },
+  {
+    "id": 20630765,
+    "name": "Spellstone Sorcerer Karood",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 48659020,
+    "name": "Spirit Caller",
+    "type": "Flip Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 34690519,
+    "name": "Spirit of the Mountain",
+    "type": "Normal Monster",
+    "archetype": null
+  },
+  {
+    "id": 54615781,
+    "name": "Spirit of the Winds",
+    "type": "Normal Monster",
+    "archetype": null
+  },
+  {
+    "id": 67957315,
+    "name": "Spirit Ryu",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 42544773,
+    "name": "Spoon, the Seal of Magistus",
+    "type": "Effect Monster",
+    "archetype": "Magistus"
+  },
+  {
+    "id": 94096018,
+    "name": "SPYGAL Misty",
+    "type": "Effect Monster",
+    "archetype": "SPYRAL"
+  },
+  {
+    "id": 24610207,
+    "name": "Star Drawing",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 61257789,
+    "name": "Stardust Dragon/Assault Mode",
+    "type": "Effect Monster",
+    "archetype": "Assault Mode"
+  },
+  {
+    "id": 80244114,
+    "name": "Stardust Phantom",
+    "type": "Effect Monster",
+    "archetype": "Stardust"
+  },
+  {
+    "id": 63184227,
+    "name": "Stardust Trail",
+    "type": "Effect Monster",
+    "archetype": "Stardust"
+  },
+  {
+    "id": 91262474,
+    "name": "Stardust Wurm",
+    "type": "Effect Monster",
+    "archetype": "Stardust"
+  },
+  {
+    "id": 68543408,
+    "name": "Stardust Xiaolong",
+    "type": "Effect Monster",
+    "archetype": "Stardust"
+  },
+  {
+    "id": 15381421,
+    "name": "Starliege Seyfert",
+    "type": "Effect Monster",
+    "archetype": "Starliege"
+  },
+  {
+    "id": 90835938,
+    "name": "Starry Night, Starry Dragon",
+    "type": "Effect Monster",
+    "archetype": "Holy Knight"
+  },
+  {
+    "id": 54359696,
+    "name": "Stoic of Prophecy",
+    "type": "Effect Monster",
+    "archetype": "Spellbook"
+  },
+  {
+    "id": 29013526,
+    "name": "Storming Wynn",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 50032342,
+    "name": "Strategist of the Ice Barrier",
+    "type": "Effect Monster",
+    "archetype": "Ice Barrier"
+  },
+  {
+    "id": 27415516,
+    "name": "Stream, Dragon Ruler of Droplets",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 13002461,
+    "name": "Strength of Prophecy",
+    "type": "Effect Monster",
+    "archetype": "Spellbook"
+  },
+  {
+    "id": 23770284,
+    "name": "Strong Wind Dragon",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 74762582,
+    "name": "Subterror Fiendess",
+    "type": "Effect Monster",
+    "archetype": "Subterror"
+  },
+  {
+    "id": 16428514,
+    "name": "Subterror Guru",
+    "type": "Flip Effect Monster",
+    "archetype": "Subterror"
+  },
+  {
+    "id": 423585,
+    "name": "Summoner Monk",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 14644902,
+    "name": "Summoner of Illusions",
+    "type": "Flip Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 73837870,
+    "name": "Sunny Pixie",
+    "type": "Tuner Monster",
+    "archetype": null
+  },
+  {
+    "id": 17315396,
+    "name": "Supay, Duskwalker",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 85374678,
+    "name": "Super Quantum Green Layer",
+    "type": "Effect Monster",
+    "archetype": "Super Quant"
+  },
+  {
+    "id": 77060848,
+    "name": "Svartalf of the Nordic Alfar",
+    "type": "Tuner Monster",
+    "archetype": "Nordic"
+  },
+  {
+    "id": 15839054,
+    "name": "Synchro Fusionist",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 64898834,
+    "name": "T.G. Catapult Dragon",
+    "type": "Effect Monster",
+    "archetype": "T.G."
+  },
+  {
+    "id": 64910482,
+    "name": "T.G. Cyber Magician",
+    "type": "Tuner Monster",
+    "archetype": "T.G."
+  },
+  {
+    "id": 72705654,
+    "name": "Tachyon Cloudragon",
+    "type": "Effect Monster",
+    "archetype": "Tachyon"
+  },
+  {
+    "id": 46247516,
+    "name": "Tao the Chanter",
+    "type": "Normal Monster",
+    "archetype": null
+  },
+  {
+    "id": 87608852,
+    "name": "Temperance of Prophecy",
+    "type": "Effect Monster",
+    "archetype": "Spellbook"
+  },
+  {
+    "id": 89399912,
+    "name": "Tempest, Dragon Ruler of Storms",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 10000,
+    "name": "Ten Thousand Dragon",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 91810826,
+    "name": "Tenpai Dragon Chundra",
+    "type": "Tuner Monster",
+    "archetype": "Tenpai Dragon"
+  },
+  {
+    "id": 65326118,
+    "name": "Tenpai Dragon Fadra",
+    "type": "Effect Monster",
+    "archetype": "Tenpai Dragon"
+  },
+  {
+    "id": 23657016,
+    "name": "Tenpai Dragon Genroku",
+    "type": "Effect Monster",
+    "archetype": "Tenpai Dragon"
+  },
+  {
+    "id": 39931513,
+    "name": "Tenpai Dragon Paidra",
+    "type": "Effect Monster",
+    "archetype": "Tenpai Dragon"
+  },
+  {
+    "id": 501000004,
+    "name": "Testament of the Arcane Lords",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 24348204,
+    "name": "The Bewitching Phantom Thief",
+    "type": "Normal Monster",
+    "archetype": null
+  },
+  {
+    "id": 66574418,
+    "name": "The Black Stone of Legend",
+    "type": "Effect Monster",
+    "archetype": "Red-Eyes"
+  },
+  {
+    "id": 69120785,
+    "name": "The Bystial Alba Los",
+    "type": "Effect Monster",
+    "archetype": "Bystial"
+  },
+  {
+    "id": 45005708,
+    "name": "The Bystial Aluber",
+    "type": "Tuner Monster",
+    "archetype": "Bystial"
+  },
+  {
+    "id": 32731036,
+    "name": "The Bystial Lubellion",
+    "type": "Effect Monster",
+    "archetype": "Bystial"
+  },
+  {
+    "id": 93346024,
+    "name": "The Dragon Dwelling in the Cave",
+    "type": "Normal Monster",
+    "archetype": null
+  },
+  {
+    "id": 82489470,
+    "name": "The Golden Swordsoul",
+    "type": "Tuner Monster",
+    "archetype": "Swordsoul"
+  },
+  {
+    "id": 83764996,
+    "name": "The Illusory Gentleman",
+    "type": "Normal Monster",
+    "archetype": null
+  },
+  {
+    "id": 62849088,
+    "name": "The Iris Swordsoul",
+    "type": "Effect Monster",
+    "archetype": "Swordsoul"
+  },
+  {
+    "id": 8978197,
+    "name": "The King of D.",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 58604027,
+    "name": "The Legendary Exodia Incarnate",
+    "type": "Effect Monster",
+    "archetype": "Exodia"
+  },
+  {
+    "id": 97522863,
+    "name": "The Man with the Mark",
+    "type": "Effect Monster",
+    "archetype": "Temple of the Kings"
+  },
+  {
+    "id": 87557188,
+    "name": "The Stern Mystic",
+    "type": "Flip Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 14778250,
+    "name": "The Tricky",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 27618634,
+    "name": "The Unhappy Girl",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 51275027,
+    "name": "The Unhappy Maiden",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 71039903,
+    "name": "The White Stone of Ancients",
+    "type": "Tuner Monster",
+    "archetype": "Blue-Eyes"
+  },
+  {
+    "id": 79814787,
+    "name": "The White Stone of Legend",
+    "type": "Tuner Monster",
+    "archetype": "Blue-Eyes"
+  },
+  {
+    "id": 27125110,
+    "name": "Thousand-Eyes Idol",
+    "type": "Normal Monster",
+    "archetype": "Eyes Restrict"
+  },
+  {
+    "id": 26400609,
+    "name": "Tidal, Dragon Ruler of Waterfalls",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 10097168,
+    "name": "Tiger Dragon",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 3078380,
+    "name": "Timaeus the United Dragon",
+    "type": "Effect Monster",
+    "archetype": "Legendary Knight"
+  },
+  {
+    "id": 71625222,
+    "name": "Time Wizard",
+    "type": "Effect Monster",
+    "archetype": "Magician"
+  },
+  {
+    "id": 21296502,
+    "name": "Toon Dark Magician",
+    "type": "Toon Monster",
+    "archetype": "Toon"
+  },
+  {
+    "id": 90960358,
+    "name": "Toon Dark Magician Girl",
+    "type": "Toon Monster",
+    "archetype": "Toon"
+  },
+  {
+    "id": 42386471,
+    "name": "Toon Gemini Elf",
+    "type": "Toon Monster",
+    "archetype": "Toon"
+  },
+  {
+    "id": 16392422,
+    "name": "Toon Masked Sorcerer",
+    "type": "Toon Monster",
+    "archetype": "Toon"
+  },
+  {
+    "id": 564541,
+    "name": "Totem Dragon",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 58132856,
+    "name": "Toy Magician",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 14214060,
+    "name": "Trance the Magic Swordsman",
+    "type": "Normal Monster",
+    "archetype": null
+  },
+  {
+    "id": 39111158,
+    "name": "Tri-Horned Dragon",
+    "type": "Normal Monster",
+    "archetype": null
+  },
+  {
+    "id": 95504778,
+    "name": "Triggering Wurm",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 48568432,
+    "name": "Trigon",
+    "type": "Union Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 55013285,
+    "name": "Troop Dragon",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 37984331,
+    "name": "True Exodia",
+    "type": "Effect Monster",
+    "archetype": "Exodia"
+  },
+  {
+    "id": 34853266,
+    "name": "Tsukuyomi",
+    "type": "Spirit Monster",
+    "archetype": null
+  },
+  {
+    "id": 47459126,
+    "name": "Tuned Magician",
+    "type": "Gemini Monster",
+    "archetype": null
+  },
+  {
+    "id": 54941203,
+    "name": "Tuning Magician",
+    "type": "Tuner Monster",
+    "archetype": null
+  },
+  {
+    "id": 43586926,
+    "name": "Twin-Headed Behemoth",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 56789759,
+    "name": "Tyhone #2",
+    "type": "Normal Monster",
+    "archetype": null
+  },
+  {
+    "id": 94568601,
+    "name": "Tyrant Dragon",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 33725002,
+    "name": "V Salamander",
+    "type": "Effect Monster",
+    "archetype": "Utopia"
+  },
+  {
+    "id": 24857466,
+    "name": "Van'Dalgyon the Dark Dragon Lord",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 77135531,
+    "name": "Vanguard of the Dragon",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 91073013,
+    "name": "Vanquish Soul Caesar Valius",
+    "type": "Effect Monster",
+    "archetype": "Vanquish Soul"
+  },
+  {
+    "id": 54343893,
+    "name": "Vice Dragon",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 62379337,
+    "name": "Violet Witch",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 18482591,
+    "name": "Warlock of the Ice Barrier",
+    "type": "Effect Monster",
+    "archetype": "Ice Barrier"
+  },
+  {
+    "id": 30680659,
+    "name": "Water Enchantress of the Temple",
+    "type": "Effect Monster",
+    "archetype": "Adventurer"
+  },
+  {
+    "id": 87151205,
+    "name": "Wattaildragon",
+    "type": "Normal Monster",
+    "archetype": "Watt"
+  },
+  {
+    "id": 65961085,
+    "name": "Wheel of Prophecy",
+    "type": "Effect Monster",
+    "archetype": "Spellbook"
+  },
+  {
+    "id": 99212922,
+    "name": "White Dragon Ninja",
+    "type": "Effect Monster",
+    "archetype": "Ninja"
+  },
+  {
+    "id": 99234526,
+    "name": "White Dragon Wyverburster",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 40352445,
+    "name": "White Knight of Dogmatika",
+    "type": "Ritual Effect Monster",
+    "archetype": "Dogmatika"
+  },
+  {
+    "id": 15150365,
+    "name": "White Magical Hat",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 81383947,
+    "name": "White Magician Pikeru",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 79473793,
+    "name": "White Night Dragon",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 48654323,
+    "name": "White Relic of Dogmatika",
+    "type": "Ritual Effect Monster",
+    "archetype": "Dogmatika"
+  },
+  {
+    "id": 12213463,
+    "name": "White Rose Dragon",
+    "type": "Effect Monster",
+    "archetype": "Rose Dragon"
+  },
+  {
+    "id": 28348939,
+    "name": "White Tiger Summoner",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 73891874,
+    "name": "White-Horned Dragon",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 2957055,
+    "name": "Wicked Dragon with the Ersatz Head",
+    "type": "Normal Monster",
+    "archetype": null
+  },
+  {
+    "id": 81476402,
+    "name": "Wicked Serpent Night Dragon",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 59297550,
+    "name": "Wind-Up Magician",
+    "type": "Effect Monster",
+    "archetype": "Wind-Up"
+  },
+  {
+    "id": 84851250,
+    "name": "Windwitch - Blizzard Bell",
+    "type": "Tuner Monster",
+    "archetype": "Windwitch"
+  },
+  {
+    "id": 20246864,
+    "name": "Windwitch - Freeze Bell",
+    "type": "Effect Monster",
+    "archetype": "Windwitch"
+  },
+  {
+    "id": 71007216,
+    "name": "Windwitch - Glass Bell",
+    "type": "Tuner Monster",
+    "archetype": "Windwitch"
+  },
+  {
+    "id": 43722862,
+    "name": "Windwitch - Ice Bell",
+    "type": "Effect Monster",
+    "archetype": "Windwitch"
+  },
+  {
+    "id": 70117860,
+    "name": "Windwitch - Snow Bell",
+    "type": "Tuner Monster",
+    "archetype": "Windwitch"
+  },
+  {
+    "id": 87796900,
+    "name": "Winged Dragon, Guardian of the Fortress #1",
+    "type": "Normal Monster",
+    "archetype": null
+  },
+  {
+    "id": 64583600,
+    "name": "Wish Dragon",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 75946257,
+    "name": "Witch Doctor of Chaos",
+    "type": "Flip Effect Monster",
+    "archetype": "Chaos"
+  },
+  {
+    "id": 30525991,
+    "name": "Witch Doctor of Sparta",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 78010363,
+    "name": "Witch of the Black Forest",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 17720747,
+    "name": "Witch of the Black Rose",
+    "type": "Tuner Monster",
+    "archetype": "Rose Dragon"
+  },
+  {
+    "id": 80741828,
+    "name": "Witch's Apprentice",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 58139997,
+    "name": "Witchcrafter Edel",
+    "type": "Effect Monster",
+    "archetype": "Witchcrafter"
+  },
+  {
+    "id": 64756282,
+    "name": "Witchcrafter Genni",
+    "type": "Effect Monster",
+    "archetype": "Witchcrafter"
+  },
+  {
+    "id": 71074418,
+    "name": "Witchcrafter Golem Aruru",
+    "type": "Effect Monster",
+    "archetype": "Witchcrafter"
+  },
+  {
+    "id": 84523092,
+    "name": "Witchcrafter Haine",
+    "type": "Effect Monster",
+    "archetype": "Witchcrafter"
+  },
+  {
+    "id": 21522601,
+    "name": "Witchcrafter Madame Verre",
+    "type": "Effect Monster",
+    "archetype": "Witchcrafter"
+  },
+  {
+    "id": 95245544,
+    "name": "Witchcrafter Pittore",
+    "type": "Effect Monster",
+    "archetype": "Witchcrafter"
+  },
+  {
+    "id": 59851535,
+    "name": "Witchcrafter Potterie",
+    "type": "Effect Monster",
+    "archetype": "Witchcrafter"
+  },
+  {
+    "id": 21744288,
+    "name": "Witchcrafter Schmietta",
+    "type": "Effect Monster",
+    "archetype": "Witchcrafter"
+  },
+  {
+    "id": 1527418,
+    "name": "Wiz, Sage Fur Hire",
+    "type": "Effect Monster",
+    "archetype": "Fur Hire"
+  },
+  {
+    "id": 2602411,
+    "name": "Wizard Buster Destruction Sword",
+    "type": "Effect Monster",
+    "archetype": "Destruction Sword"
+  },
+  {
+    "id": 84899094,
+    "name": "World Chalice Guardragon",
+    "type": "Effect Monster",
+    "archetype": "World Chalice"
+  },
+  {
+    "id": 35183584,
+    "name": "World Legacy Guardragon Mardark",
+    "type": "Effect Monster",
+    "archetype": "Guardragon"
+  },
+  {
+    "id": 29146185,
+    "name": "World of Prophecy",
+    "type": "Effect Monster",
+    "archetype": "Spellbook"
+  },
+  {
+    "id": 86395581,
+    "name": "Wynn the Wind Channeler",
+    "type": "Effect Monster",
+    "archetype": "Charmer"
+  },
+  {
+    "id": 37744402,
+    "name": "Wynn the Wind Charmer",
+    "type": "Flip Effect Monster",
+    "archetype": "Charmer"
+  },
+  {
+    "id": 72502414,
+    "name": "Xyz Agent",
+    "type": "Effect Monster",
+    "archetype": "Utopia"
+  },
+  {
+    "id": 86559484,
+    "name": "Xyz-Raypierce",
+    "type": "Effect Monster",
+    "archetype": null
+  },
+  {
+    "id": 70345785,
+    "name": "Yamadron",
+    "type": "Normal Monster",
+    "archetype": null
+  },
+  {
+    "id": 76862289,
+    "name": "Yamata Dragon",
+    "type": "Spirit Monster",
+    "archetype": null
+  },
+  {
+    "id": 76704943,
+    "name": "Yamatano Dragon Scroll",
+    "type": "Normal Monster",
+    "archetype": null
+  },
+  {
+    "id": 36099130,
+    "name": "Zoroa, the Magistus of Flame",
+    "type": "Tuner Monster",
+    "archetype": "Magistus"
+  },
+  {
+    "id": 81471108,
+    "name": "ZW - Tornado Bringer",
+    "type": "Effect Monster",
+    "archetype": "Utopia"
+  },
+  {
+    "id": 50371210,
+    "name": "Beacon of White",
+    "type": "Spell Card",
+    "archetype": "Blue-Eyes"
+  },
+  {
+    "id": 93437091,
+    "name": "Bingo Machine, Go!!!",
+    "type": "Spell Card",
+    "archetype": "Blue-Eyes"
+  },
+  {
+    "id": 17655904,
+    "name": "Burst Stream of Destruction",
+    "type": "Spell Card",
+    "archetype": "Blue-Eyes"
+  },
+  {
+    "id": 21082832,
+    "name": "Chaos Form",
+    "type": "Spell Card",
+    "archetype": "Blue-Eyes"
+  },
+  {
+    "id": 2783661,
+    "name": "Majesty with Eyes of Blue",
+    "type": "Spell Card",
+    "archetype": "Blue-Eyes"
+  },
+  {
+    "id": 43845801,
+    "name": "Neutron Blast",
+    "type": "Spell Card",
+    "archetype": "Blue-Eyes"
+  },
+  {
+    "id": 29432790,
+    "name": "Rage with Eyes of Blue",
+    "type": "Spell Card",
+    "archetype": "Blue-Eyes"
+  },
+  {
+    "id": 71143015,
+    "name": "Ultimate Fusion",
+    "type": "Spell Card",
+    "archetype": "Blue-Eyes"
+  },
+  {
+    "id": 56920308,
+    "name": "The Ultimate Creature of Destruction",
+    "type": "Trap Card",
+    "archetype": "Blue-Eyes"
+  },
+  {
+    "id": 62089826,
+    "name": "True Light",
+    "type": "Trap Card",
+    "archetype": "Blue-Eyes"
+  },
+  {
+    "id": 33907039,
+    "name": "Piri Reis Map",
+    "type": "Spell Card",
+    "archetype": null
+  },
+  {
+    "id": 80326401,
+    "name": "Wishes for Eyes of Blue",
+    "type": "Spell Card",
+    "archetype": "with Eyes of Blue"
+  }
+]
