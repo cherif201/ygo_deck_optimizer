@@ -1,0 +1,439 @@
+Deck  1: Fitness=30.00
+The White Stone of Ancients (71039903) x1
+Fortune Fairy Hu (79890560) x3
+Gravekeeper's Curse (50712728) x3
+Blue-Eyes Alternative White Dragon (38517737) x2
+World Chalice Guardragon (84899094) x1
+Maiden of White (17947697) x3
+Dark Horus (66214679) x3
+Fool of Prophecy (63175639) x1
+The Unhappy Maiden (51275027) x2
+Blue-Eyes Jet Dragon (30576089) x2
+Blue-Eyes White Dragon (89631139) x3
+Witchcrafter Pittore (95245544) x2
+Wishes for Eyes of Blue (80326401) x3
+True Light (62089826) x1
+Koumori Dragon (67724379) x2
+D.D.M. - Different Dimension Master (82112775) x1
+Windwitch - Blizzard Bell (84851250) x1
+Fairy Tail - Luna (86937530) x1
+Shining Star Dragon (75874514) x2
+Neo the Magic Swordsman (50930991) x1
+Artmegia Litera (97434754) x1
+Seiyaryu (6740720) x1
+
+Deck  2: Fitness=29.00
+Blue-Eyes Jet Dragon (30576089) x1
+Seiyaryu (6740720) x2
+Fairy Tail - Luna (86937530) x2
+Shaddoll Squamata (30328508) x2
+Punishment Dragon (19959563) x2
+Heraldic Beast Aberconway (60316373) x3
+Galaxy-Eyes Tachyon Primal (45710945) x1
+Parlor Dragonmaid (88453933) x1
+Wishes for Eyes of Blue (80326401) x2
+Gravekeeper's Priestess (3381441) x1
+Fool of Prophecy (63175639) x1
+Maiden of White (17947697) x3
+Dragonmaid Lorpar (15848542) x2
+World Chalice Guardragon (84899094) x1
+Constellar Algiedi (41269771) x1
+Red Dragon Archfiend/Assault Mode (77336644) x1
+Vanguard of the Dragon (77135531) x1
+The White Stone of Ancients (71039903) x1
+Koumori Dragon (67724379) x1
+True Light (62089826) x1
+Blue-Eyes White Dragon (89631139) x3
+Fortune Fairy Hu (79890560) x1
+Gravekeeper's Heretic (46955770) x1
+Shining Star Dragon (75874514) x1
+Impcantation Bookstone (18474999) x1
+Silverrokket Dragon (32476603) x1
+Featherizer (32271987) x1
+Chaos Sorcerer (9596126) x1
+
+Deck  3: Fitness=30.00
+The White Stone of Ancients (71039903) x1
+Wishes for Eyes of Blue (80326401) x3
+D.D.M. - Different Dimension Master (82112775) x1
+Chaos Sorcerer (9596126) x1
+Heraldic Beast Aberconway (60316373) x1
+Impcantation Bookstone (18474999) x1
+Koumori Dragon (67724379) x2
+Windwitch - Blizzard Bell (84851250) x1
+Guardragon Garmides (43411769) x1
+Blue-Eyes White Dragon (89631139) x3
+Fairy Tail - Luna (86937530) x1
+Magicians of Bonds and Unity (15845914) x1
+Maiden of White (17947697) x3
+Gravekeeper's Heretic (46955770) x2
+Gravekeeper's Curse (50712728) x1
+True Light (62089826) x1
+Fool of Prophecy (63175639) x1
+Punishment Dragon (19959563) x1
+Fortune Fairy Hu (79890560) x2
+Constellar Algiedi (41269771) x1
+Winged Dragon, Guardian of the Fortress #1 (87796900) x1
+Blue-Eyes Jet Dragon (30576089) x3
+Witchcrafter Pittore (95245544) x1
+Tyrant Dragon (94568601) x1
+Seiyaryu (6740720) x2
+Gravekeeper's Priestess (3381441) x1
+Armed Dragon Thunder LV5 (21546416) x1
+Parlor Dragonmaid (88453933) x1
+
+Deck  4: Fitness=30.00
+Fortune Fairy Hu (79890560) x3
+Fairy Tail - Luna (86937530) x2
+Wishes for Eyes of Blue (80326401) x3
+Dark Horus (66214679) x2
+Blue-Eyes Alternative White Dragon (38517737) x3
+Punishment Dragon (19959563) x1
+The Unhappy Maiden (51275027) x2
+Gravekeeper's Curse (50712728) x3
+Maiden of White (17947697) x3
+World Chalice Guardragon (84899094) x1
+Windwitch - Blizzard Bell (84851250) x2
+Constellar Algiedi (41269771) x1
+Blue-Eyes White Dragon (89631139) x3
+Seiyaryu (6740720) x1
+Shining Star Dragon (75874514) x1
+Witchcrafter Pittore (95245544) x2
+Light End Sublimation Dragon (35614780) x1
+Blue-Eyes Jet Dragon (30576089) x1
+The White Stone of Ancients (71039903) x1
+Heraldic Beast Aberconway (60316373) x1
+Artmegia Litera (97434754) x1
+True Light (62089826) x1
+Neo the Magic Swordsman (50930991) x1
+
+Deck  5: Fitness=30.00
+Fortune Fairy Hu (79890560) x3
+Wishes for Eyes of Blue (80326401) x3
+Artmegia Litera (97434754) x1
+Constellar Algiedi (41269771) x1
+The Unhappy Maiden (51275027) x3
+World Chalice Guardragon (84899094) x2
+Dark Horus (66214679) x2
+Gravekeeper's Curse (50712728) x3
+The White Stone of Ancients (71039903) x1
+Blue-Eyes White Dragon (89631139) x3
+Maiden of White (17947697) x3
+Windwitch - Blizzard Bell (84851250) x1
+Fairy Tail - Luna (86937530) x2
+Shining Star Dragon (75874514) x2
+Heraldic Beast Aberconway (60316373) x1
+Blue-Eyes Jet Dragon (30576089) x1
+True Light (62089826) x1
+Witchcrafter Pittore (95245544) x3
+Blue-Eyes Alternative White Dragon (38517737) x3
+Seiyaryu (6740720) x1
+
+Deck  6: Fitness=1.00
+Dragon Spirit of White (45467446) x1
+Mikazukinoyaiba (38277918) x1
+Delg the Dark Monarch (85718645) x1
+Paladin of White Dragon (73398797) x1
+Defender of Nephthys (51782995) x1
+Witchcrafter Potterie (59851535) x1
+Des Volstgalph (81059524) x1
+Constellar Caduceus (82913020) x1
+Royal Magical Library (70791313) x1
+Light End Sublimation Dragon (35614780) x1
+Horus the Black Flame Dragon LV8 (48229808) x1
+Stream, Dragon Ruler of Droplets (27415516) x1
+White Knight of Dogmatika (40352445) x1
+Galaxy Serpent (11066358) x2
+Tenpai Dragon Paidra (39931513) x1
+Luster Dragon #2 (17658803) x1
+Saffira, Divine Dragon of the Voiceless Voice (10804018) x1
+Stardust Dragon/Assault Mode (61257789) x1
+Mementotlan Angwitch (54550967) x1
+Dragard (65737274) x1
+Soul Drain Dragon (55735315) x1
+Fairy Tail - Luna (86937530) x1
+Heliosphere Dragon (51043053) x1
+Exploder Dragon (20586572) x1
+Blizzard Dragon (61802346) x1
+Tyrant Dragon (94568601) x1
+Sealmaster Meisei (2468169) x1
+Spellbook Magician of Prophecy (14824019) x1
+Spirit Ryu (67957315) x1
+Autorokket Dragon (80250185) x1
+Palladium Oracle Mahad (71703785) x1
+Fairy Tail - Rella (52022648) x1
+Gravekeeper's Watcher (26084285) x1
+Pandemic Dragon (68299524) x1
+Lesser Dragon (55444629) x1
+The Legendary Exodia Incarnate (58604027) x1
+Divine Dragon Apocralyph (20277376) x1
+Magidog (47929865) x1
+Guardragon Andrake (6990577) x1
+
+Deck  7: Fitness=30.00
+Fortune Fairy Hu (79890560) x2
+Wishes for Eyes of Blue (80326401) x3
+Artmegia Litera (97434754) x1
+D.D.M. - Different Dimension Master (82112775) x1
+Constellar Algiedi (41269771) x1
+Punishment Dragon (19959563) x1
+The Unhappy Maiden (51275027) x1
+World Chalice Guardragon (84899094) x1
+Dark Horus (66214679) x1
+Gravekeeper's Curse (50712728) x2
+The White Stone of Ancients (71039903) x1
+Blue-Eyes White Dragon (89631139) x3
+Magicians of Bonds and Unity (15845914) x1
+Maiden of White (17947697) x3
+Guardragon Garmides (43411769) x1
+Fairy Tail - Luna (86937530) x2
+Gravekeeper's Priestess (3381441) x1
+Shining Star Dragon (75874514) x1
+Heraldic Beast Aberconway (60316373) x2
+Blue-Eyes Jet Dragon (30576089) x2
+Koumori Dragon (67724379) x1
+Chaos Sorcerer (9596126) x1
+True Light (62089826) x1
+Blue-Eyes Alternative White Dragon (38517737) x1
+Seiyaryu (6740720) x1
+Catoblepas and the Witch of Fate (54360049) x1
+Impcantation Bookstone (18474999) x1
+Gravekeeper's Heretic (46955770) x1
+Kaiser Glider - Golden Burst (41002238) x1
+
+Deck  8: Fitness=30.00
+Spellbook Magician of Prophecy (14824019) x1
+Blue-Eyes White Dragon (89631139) x3
+Koumori Dragon (67724379) x3
+Blue-Eyes Jet Dragon (30576089) x2
+True Light (62089826) x1
+Fool of Prophecy (63175639) x2
+Red Dragon Archfiend/Assault Mode (77336644) x1
+Shining Star Dragon (75874514) x3
+Dark Horus (66214679) x2
+Neo the Magic Swordsman (50930991) x2
+Maiden of White (17947697) x3
+Wishes for Eyes of Blue (80326401) x3
+Vanguard of the Dragon (77135531) x1
+Featherizer (32271987) x1
+Shaddoll Squamata (30328508) x2
+Light End Sublimation Dragon (35614780) x1
+D.D.M. - Different Dimension Master (82112775) x2
+One-Eyed Shield Dragon (33064647) x1
+The White Stone of Ancients (71039903) x1
+Parlor Dragonmaid (88453933) x1
+Kaiser Glider - Golden Burst (41002238) x1
+Silverrokket Dragon (32476603) x1
+Dragonmaid Lorpar (15848542) x2
+
+Deck  9: Fitness=30.00
+Wishes for Eyes of Blue (80326401) x3
+Nowru Aries the Vernal Dragon (25607552) x1
+D.D.M. - Different Dimension Master (82112775) x2
+Constellar Algiedi (41269771) x1
+The Unhappy Maiden (51275027) x1
+World Chalice Guardragon (84899094) x1
+Dark Horus (66214679) x1
+The White Stone of Ancients (71039903) x1
+Blue-Eyes White Dragon (89631139) x3
+Vanguard of the Dragon (77135531) x1
+Parlor Dragonmaid (88453933) x1
+Neo the Magic Swordsman (50930991) x1
+Maiden of White (17947697) x3
+Fairy Tail - Luna (86937530) x1
+Shaddoll Squamata (30328508) x1
+Harr, Generaider Boss of Storms (68199168) x1
+Light End Sublimation Dragon (35614780) x1
+Red Dragon Archfiend/Assault Mode (77336644) x1
+One-Eyed Shield Dragon (33064647) x1
+Shining Star Dragon (75874514) x3
+Heraldic Beast Aberconway (60316373) x1
+Fool of Prophecy (63175639) x1
+Blue-Eyes Jet Dragon (30576089) x1
+Koumori Dragon (67724379) x1
+Dragonmaid Lorpar (15848542) x2
+True Light (62089826) x1
+Witchcrafter Pittore (95245544) x1
+Blue-Eyes Alternative White Dragon (38517737) x1
+Featherizer (32271987) x1
+Kaiser Glider - Golden Burst (41002238) x1
+
+Deck 10: Fitness=30.00
+Fool of Prophecy (63175639) x2
+Koumori Dragon (67724379) x3
+One-Eyed Shield Dragon (33064647) x1
+Maiden of White (17947697) x3
+Blue-Eyes White Dragon (89631139) x3
+Shining Star Dragon (75874514) x3
+Light End Sublimation Dragon (35614780) x1
+D.D.M. - Different Dimension Master (82112775) x3
+Featherizer (32271987) x1
+Wishes for Eyes of Blue (80326401) x3
+Dragonmaid Lorpar (15848542) x2
+Nowru Aries the Vernal Dragon (25607552) x1
+Shaddoll Squamata (30328508) x2
+Parlor Dragonmaid (88453933) x1
+Blue-Eyes Jet Dragon (30576089) x2
+Vanguard of the Dragon (77135531) x1
+Red Dragon Archfiend/Assault Mode (77336644) x1
+Neo the Magic Swordsman (50930991) x2
+The White Stone of Ancients (71039903) x1
+True Light (62089826) x1
+Dark Horus (66214679) x2
+Kaiser Glider - Golden Burst (41002238) x1
+
+Deck 11: Fitness=30.00
+Windwitch - Blizzard Bell (84851250) x2
+Dark Horus (66214679) x3
+Wishes for Eyes of Blue (80326401) x3
+D.D.M. - Different Dimension Master (82112775) x1
+Blue-Eyes White Dragon (89631139) x3
+Shining Star Dragon (75874514) x1
+Tyrant Dragon (94568601) x1
+Gravekeeper's Curse (50712728) x2
+Blue-Eyes Alternative White Dragon (38517737) x2
+Fool of Prophecy (63175639) x1
+Blue-Eyes Jet Dragon (30576089) x2
+Parlor Dragonmaid (88453933) x1
+Koumori Dragon (67724379) x2
+Fairy Tail - Luna (86937530) x1
+Maiden of White (17947697) x3
+Fortune Fairy Hu (79890560) x2
+Neo the Magic Swordsman (50930991) x2
+The Unhappy Maiden (51275027) x1
+Artmegia Litera (97434754) x1
+Seiyaryu (6740720) x1
+Light End Sublimation Dragon (35614780) x1
+The White Stone of Ancients (71039903) x1
+Punishment Dragon (19959563) x1
+True Light (62089826) x1
+Witchcrafter Pittore (95245544) x1
+
+Deck 12: Fitness=30.00
+Wishes for Eyes of Blue (80326401) x3
+Light End Sublimation Dragon (35614780) x1
+Shining Star Dragon (75874514) x1
+Blue-Eyes White Dragon (89631139) x3
+Fortune Fairy Hu (79890560) x1
+Windwitch - Blizzard Bell (84851250) x1
+Gravekeeper's Curse (50712728) x3
+Seiyaryu (6740720) x1
+Witchcrafter Pittore (95245544) x2
+The White Stone of Ancients (71039903) x1
+World Chalice Guardragon (84899094) x1
+The Unhappy Maiden (51275027) x1
+True Light (62089826) x1
+Koumori Dragon (67724379) x3
+Fool of Prophecy (63175639) x1
+Dark Horus (66214679) x2
+Blue-Eyes Alternative White Dragon (38517737) x2
+Artmegia Litera (97434754) x1
+Magicians of Bonds and Unity (15845914) x1
+Constellar Algiedi (41269771) x1
+D.D.M. - Different Dimension Master (82112775) x2
+Blue-Eyes Jet Dragon (30576089) x2
+Neo the Magic Swordsman (50930991) x2
+Maiden of White (17947697) x3
+
+Deck 13: Fitness=30.00
+Fortune Fairy Hu (79890560) x2
+D.D.M. - Different Dimension Master (82112775) x2
+The White Stone of Ancients (71039903) x1
+Blue-Eyes White Dragon (89631139) x3
+Maiden of White (17947697) x3
+Gravekeeper's Curse (50712728) x2
+Gravekeeper's Heretic (46955770) x1
+True Light (62089826) x1
+Dark Horus (66214679) x2
+Magicians of Bonds and Unity (15845914) x1
+Koumori Dragon (67724379) x2
+Fairy Tail - Luna (86937530) x1
+Impcantation Bookstone (18474999) x1
+Catoblepas and the Witch of Fate (54360049) x1
+Blue-Eyes Jet Dragon (30576089) x3
+Wishes for Eyes of Blue (80326401) x3
+Artmegia Litera (97434754) x1
+Neo the Magic Swordsman (50930991) x1
+Fool of Prophecy (63175639) x1
+Shining Star Dragon (75874514) x1
+Gravekeeper's Priestess (3381441) x1
+Chaos Sorcerer (9596126) x1
+Heraldic Beast Aberconway (60316373) x1
+Punishment Dragon (19959563) x1
+Seiyaryu (6740720) x1
+Kaiser Glider - Golden Burst (41002238) x1
+Guardragon Garmides (43411769) x1
+
+Deck 14: Fitness=30.00
+Fortune Fairy Hu (79890560) x2
+Wishes for Eyes of Blue (80326401) x3
+Artmegia Litera (97434754) x2
+D.D.M. - Different Dimension Master (82112775) x1
+The Unhappy Maiden (51275027) x3
+World Chalice Guardragon (84899094) x1
+Dark Horus (66214679) x3
+Gravekeeper's Curse (50712728) x3
+The White Stone of Ancients (71039903) x1
+Blue-Eyes White Dragon (89631139) x3
+Neo the Magic Swordsman (50930991) x1
+Maiden of White (17947697) x3
+Windwitch - Blizzard Bell (84851250) x1
+Fairy Tail - Luna (86937530) x1
+Light End Sublimation Dragon (35614780) x1
+Shining Star Dragon (75874514) x2
+Blue-Eyes Jet Dragon (30576089) x1
+Koumori Dragon (67724379) x1
+True Light (62089826) x1
+Witchcrafter Pittore (95245544) x1
+Blue-Eyes Alternative White Dragon (38517737) x3
+Catoblepas and the Witch of Fate (54360049) x1
+Kaiser Glider - Golden Burst (41002238) x1
+
+Deck 15: Fitness=30.00
+Fairy Tail - Luna (86937530) x3
+Constellar Algiedi (41269771) x2
+Maiden of White (17947697) x3
+Fortune Fairy Hu (79890560) x3
+Blue-Eyes White Dragon (89631139) x3
+The White Stone of Ancients (71039903) x1
+Wishes for Eyes of Blue (80326401) x3
+Punishment Dragon (19959563) x2
+World Chalice Guardragon (84899094) x1
+Witchcrafter Pittore (95245544) x1
+Gravekeeper's Curse (50712728) x2
+Seiyaryu (6740720) x2
+Heraldic Beast Aberconway (60316373) x3
+Armed Dragon Thunder LV5 (21546416) x1
+Blue-Eyes Jet Dragon (30576089) x2
+Gravekeeper's Priestess (3381441) x1
+True Light (62089826) x1
+Chaos Sorcerer (9596126) x1
+Gravekeeper's Heretic (46955770) x1
+Windwitch - Blizzard Bell (84851250) x1
+Blue-Eyes Alternative White Dragon (38517737) x1
+Guardragon Garmides (43411769) x1
+Impcantation Bookstone (18474999) x1
+
+Deck 16: Fitness=30.00
+Shining Star Dragon (75874514) x3
+Dark Horus (66214679) x3
+Artmegia Litera (97434754) x2
+Fortune Fairy Hu (79890560) x3
+Blue-Eyes Alternative White Dragon (38517737) x3
+Blue-Eyes White Dragon (89631139) x3
+World Chalice Guardragon (84899094) x1
+The White Stone of Ancients (71039903) x1
+Maiden of White (17947697) x3
+Wishes for Eyes of Blue (80326401) x3
+Gravekeeper's Curse (50712728) x2
+Heraldic Beast Aberconway (60316373) x1
+The Unhappy Maiden (51275027) x3
+Fairy Tail - Luna (86937530) x2
+Disciple of Nephthys (98999181) x1
+Koumori Dragon (67724379) x1
+Blue-Eyes Jet Dragon (30576089) x1
+Catoblepas and the Witch of Fate (54360049) x1
+Kaiser Glider - Golden Burst (41002238) x1
+D.D.M. - Different Dimension Master (82112775) x1
+True Light (62089826) x1
+
